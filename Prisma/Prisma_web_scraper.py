@@ -2,28 +2,12 @@ from bs4 import BeautifulSoup
 import requests
 import os.path
 import datetime
+import json
 
-def make_category_url_dict(current_page: str) -> BeautifulSoup:
-    selection_page = requests.get(current_page)
+all_products = []
 
-    selection_html = BeautifulSoup(selection_page.text, 'html.parser')
-
-    # Getting category names
-    categories = selection_html.find_all('a', class_ = 'name js-category-item')
-    categories_list = [category.text for category in categories]
-
-    # Getting links to these categories
-    links_list = [link.get('href') for link in categories]
-    base_link = 'https://www.prismamarket.ee'
-    links_list = [base_link + link for link in links_list]
-
-    # Prisma website urls for each subcategory
-    categories_urls = dict(zip(categories_list, links_list))
-
-    return categories_urls
-
-def append_subcategory_products(output_file, current_page: str, subcategory: str):
-    products = requests.get(current_page)
+def append_subcategory_products(current_page: str, session: requests.Session):
+    products = session.get(current_page)
 
     products_html = BeautifulSoup(products.text, 'html.parser')
 
@@ -42,49 +26,59 @@ def append_subcategory_products(output_file, current_page: str, subcategory: str
     for i, price in enumerate(prices_list):
         prices_list[i] = price[:-4].replace('\n', ',')
 
-    # Createa a list of tuples with a name and a price of the product
-    products = list(zip(names_list, prices_list))
-
-    # Save the pairs of name-price to file
-    for product in products:
-        output_file.write(str(product) + '\n')
+    # Save JSON objects to file
+    subcategory_products = [{"name": name, "price": price} for name, price in zip(names_list, prices_list)]
+    all_products.append(subcategory_products)
 
 def cmp_dates(file_name: str) -> bool:
     file_creation_time = os.path.getctime(file_name)
     file_creation_time = datetime.datetime.fromtimestamp(file_creation_time)
+    file_creation_date = file_creation_time.date()
 
-    current_day = datetime.date.today()
-    if current_day.year != file_creation_time.year or \
-       current_day.month != file_creation_time.month or \
-       current_day.day != file_creation_time.day:
-        return False
+    current_date = datetime.date.today()
     
-    return True
+    if current_date == file_creation_date:
+         return True
+    
+    return False
 
-file = 'Prisma_products.txt'
+# Load data from JSON file as dictionary
+def load_json(file_path) -> dict:
+    with open(file_path, 'r') as file:
+        return json.load(file)
+    
+def get_urls_count(urls: dict) -> int:
+    count = 0
+    for category in urls.values():
+            for url in category.values():
+                count += 1
+    return count
+
+file = 'Prisma_products.json'
 
 # Check if the file with products already exists
-if os.path.exists(file):
-    if cmp_dates(file):
+if os.path.exists(file) and cmp_dates(file):
         print('File exists and dates are the same.')
         exit()
+
 # Only create a file if it doesnt exist and the date is different
 else:
 
-    prisma_products = open(file, 'w')
+    with open(file, 'w') as prisma_products:
 
-    # Prisma website product selection
-    prisma_selection = 'https://www.prismamarket.ee/products/selection'
+        # Use a single session to reduce requests time
+        session = requests.Session()
 
-    categories_urls = make_category_url_dict(prisma_selection)
+        urls = load_json('Prisma_categories.json')
 
-    # Search each category for a subcategory
-    for category, url in categories_urls.items():
-        #print(f"{category}: {url}") # Debug
-        subcategories_urls = make_category_url_dict(url)
-        for subcategory, sub_url in subcategories_urls.items():
-            #print(f"{subcategory}: {sub_url}") # Debug
-            append_subcategory_products(prisma_products, sub_url, subcategory)
-        #print()
-            
-    prisma_products.close()
+        # Keep track of progress
+        all_urls_count = get_urls_count(urls)
+        i = 0
+
+        for category in urls.values():
+            for url in category.values():
+                append_subcategory_products(url, session)
+            i += len(category)
+            print(f"[{round((i / all_urls_count) * 100, 2)}%] done")
+
+        json.dump(all_products, prisma_products, indent=4)
