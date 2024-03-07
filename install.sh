@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pip install beautifulsoup4 requests
+pip install beautifulsoup4 requests aiohttp
