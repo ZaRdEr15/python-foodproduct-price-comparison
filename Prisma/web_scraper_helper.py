@@ -1,6 +1,11 @@
+from bs4 import BeautifulSoup
 import os.path
 import datetime
 import json
+
+def get_list_from_html(tag: str, attribute: str, html_data: BeautifulSoup) -> list:
+    result = html_data.find_all(tag, class_ = attribute)
+    return [item.text for item in result]
 
 def cmp_dates(file_name: str) -> bool:
     file_creation_time = os.path.getctime(file_name)

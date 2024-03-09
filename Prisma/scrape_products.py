@@ -1,5 +1,3 @@
-from bs4 import BeautifulSoup
-import os.path
 from web_scraper_helper import *
 import asyncio
 import aiohttp
@@ -11,10 +9,6 @@ def show_progress():
     global count
     print(f"[{round((count / all_urls_count) * 100, 2)}%] done")
     count += 1
-
-def get_list_from_html(tag: str, attribute: str, html_data: BeautifulSoup) -> list:
-    result = html_data.find_all(tag, class_ = attribute)
-    return [item.text for item in result]
 
 async def get_subcategory_products(current_page: str, session: aiohttp.ClientSession):
     
@@ -61,7 +55,7 @@ async def main(urls: list):
 
 if __name__ == '__main__':
     
-    file = 'Prisma_products.json'
+    file = 'products.json'
 
     # Check if the file with products already exists
     if os.path.exists(file) and cmp_dates(file):
@@ -69,7 +63,7 @@ if __name__ == '__main__':
             exit()
     # Only create a file if it doesnt exist and the date is different
     else:
-        urls = get_urls('Prisma_categories.json')
+        urls = get_urls('urls.json')
 
         # Keep track of progress
         all_urls_count = len(urls)

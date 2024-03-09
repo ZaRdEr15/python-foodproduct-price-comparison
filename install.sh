@@ -1,3 +1,4 @@
 #!/bin/bash
 
-pip install beautifulsoup4 requests aiohttp
+pip install --upgrade pip
+pip install beautifulsoup4 aiohttp progress
