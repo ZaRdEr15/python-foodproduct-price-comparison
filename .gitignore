@@ -1,5 +1,4 @@
 Prisma/To_do.txt
 Prisma/__pycache__
-Prisma/data/products.json
-Prisma/data/urls.json
 Prisma/test
+Prisma/amount_to_real_test.py

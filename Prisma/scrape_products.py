@@ -1,16 +1,9 @@
 from web_scraper_helper import *
+from progress.bar import Bar
 import asyncio
 import aiohttp
 
-all_urls_count = 0
-count = 1
-
-def show_progress():
-    global count
-    print(f"[{round((count / all_urls_count) * 100, 2)}%] done")
-    count += 1
-
-async def get_subcategory_products(current_page: str, session: aiohttp.ClientSession):
+async def get_subcategory_products(current_page: str, session: aiohttp.ClientSession, progress: Bar):
     
     async with session.get(current_page) as response:
 
@@ -22,13 +15,13 @@ async def get_subcategory_products(current_page: str, session: aiohttp.ClientSes
 
         products_html = BeautifulSoup(html, 'html.parser')
 
-        # Searches the html content for names
         names_list = get_list_from_html('div', 'name', products_html)
 
         # Gets rid of root 'Tootevalik', category and subcategory
         names_list = names_list[3:]
 
-        # Searches the html content for prices
+        subnames_list = get_list_from_html('span', 'subname', products_html)
+
         prices_list = get_list_from_html('div', 'js-info-price', products_html)
 
         # Remove newline character and 'tk' and add comma between numbers
@@ -36,17 +29,17 @@ async def get_subcategory_products(current_page: str, session: aiohttp.ClientSes
             prices_list[i] = price[:-4].replace('\n', ',')
         
         # Save a list of dictionaries
-        subcategory_products = [{"name": name, "price": price} for name, price in zip(names_list, prices_list)]
+        subcategory_products = [{"name": name, "subname": subname, "price": price} for name, subname, price in zip(names_list, subnames_list, prices_list)]
 
-        show_progress()
+        progress.next()
 
         return subcategory_products
 
-async def main(urls: list):
+async def main(urls: list, progress):
     async with aiohttp.ClientSession() as session:
         
         # Use a single session for connection pooling
-        tasks = [get_subcategory_products(url, session) for url in urls]
+        tasks = [get_subcategory_products(url, session, progress) for url in urls]
         
         # Wait for all coroutines to finish
         results = await asyncio.gather(*tasks)
@@ -55,7 +48,7 @@ async def main(urls: list):
 
 if __name__ == '__main__':
     
-    file = 'products.json'
+    file = 'data/products.json'
 
     # Check if the file with products already exists
     if os.path.exists(file) and cmp_dates(file):
@@ -63,11 +56,19 @@ if __name__ == '__main__':
             exit()
     # Only create a file if it doesnt exist and the date is different
     else:
-        urls = get_urls('urls.json')
+        urls = get_urls('data/urls.json')
 
         # Keep track of progress
         all_urls_count = len(urls)
+        progress = Bar('Collecting products', max=all_urls_count, suffix='%(percent)d%%')
 
-        data = asyncio.run(main(urls))
+        data = asyncio.run(main(urls, progress))
+
+        # Flat out data, taking each product from the list of lists and
+        # Putting into one list
+        data = [product for sublist in data for product in sublist]
+
+        progress.finish()
+        print('Finished scraping products from Prisma')
 
         save_json(file, data)
