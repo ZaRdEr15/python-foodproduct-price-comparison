@@ -7,6 +7,8 @@ def get_list_from_html(tag: str, attribute: str, html_data: BeautifulSoup) -> li
     result = html_data.find_all(tag, class_ = attribute)
     return [item.text for item in result]
 
+# Compares current date with file creation date
+# If both match, return true, otherwise false
 def cmp_dates(file_name: str) -> bool:
     file_creation_time = os.path.getctime(file_name)
     file_creation_time = datetime.datetime.fromtimestamp(file_creation_time)
