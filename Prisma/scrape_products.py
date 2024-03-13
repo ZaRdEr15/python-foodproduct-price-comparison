@@ -1,7 +1,4 @@
 from web_scraper_helper import *
-from progress.bar import Bar
-import asyncio
-import aiohttp
 
 async def get_subcategory_products(current_page: str, session: aiohttp.ClientSession, progress: Bar):
     
@@ -56,10 +53,8 @@ if __name__ == '__main__':
             exit()
     # Only create a file if it doesnt exist and the date is different
     else:
-        urls = get_urls('data/urls.json')
+        urls, all_urls_count = get_urls_and_len('data/urls.json')
 
-        # Keep track of progress
-        all_urls_count = len(urls)
         progress = Bar('Collecting products', max=all_urls_count, suffix='%(percent)d%%')
 
         data = asyncio.run(main(urls, progress))

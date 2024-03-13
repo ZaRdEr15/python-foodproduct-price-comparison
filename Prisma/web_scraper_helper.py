@@ -2,6 +2,10 @@ from bs4 import BeautifulSoup
 import os.path
 import datetime
 import json
+from progress.bar import Bar
+from progress.spinner import Spinner
+import asyncio
+import aiohttp
 
 def get_list_from_html(tag: str, attribute: str, html_data: BeautifulSoup) -> list:
     result = html_data.find_all(tag, class_ = attribute)
@@ -22,18 +26,14 @@ def cmp_dates(file_name: str) -> bool:
     return False
 
 # Load data from JSON file as dictionary
-def load_json(file_path) -> dict:
+def load_json(file_path) -> list:
     with open(file_path, 'r') as file:
         return json.load(file)
     
 # Get urls from JSON file
-def get_urls(file_path) -> list:
-    data_json = load_json(file_path)
-    urls = []
-    for category in data_json.values():
-            for url in category.values():
-                urls.append(url)
-    return urls
+def get_urls_and_len(file_path):
+    urls = load_json(file_path)
+    return urls, len(urls)
     
 def save_json(file_path, all_products):
     with open(file_path, 'w') as prisma_products:

@@ -15,9 +15,9 @@ column_width = 50
 
 # Search Prisma JSON data file for search phrase matches
 for object in json_data:
-    name = object['name']
-    subname = object['subname']
-    price = object['price']
+    name =      object['name']
+    subname =   object['subname']
+    price =     object['price']
     if search_phrase in name.lower() or search_phrase in subname.lower():
         found += 1
         print(f'{name:<80}| {subname:<25}: {price:>6}€ -> {shop}')

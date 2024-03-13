@@ -42,7 +42,7 @@
     {
         "name": "Nektariin I klass",
         "subname": "Brasiilia",
-        "price": "5,99"
+        "price": "4,99"
     },
     {
         "name": "Kollane melon",
@@ -57,7 +57,7 @@
     {
         "name": "Kookosp\u00e4hkel",
         "subname": "Brasiilia",
-        "price": "2,53"
+        "price": "2,59"
     },
     {
         "name": "Laim",
@@ -71,13 +71,13 @@
     },
     {
         "name": "\u00d5un Paulared, II klass",
-        "subname": "Prantsusmaa",
-        "price": "0,50"
+        "subname": "Poola",
+        "price": "0,49"
     },
     {
-        "name": "\u00d5un Granny Smith, I klass",
+        "name": "\u00d5un Royal Gala, I klass",
         "subname": "Holland",
-        "price": "2,99"
+        "price": "2,05"
     },
     {
         "name": "\u00d5un Red Delicious I klass",
@@ -87,7 +87,7 @@
     {
         "name": "\u00d5un Kanzi I klass",
         "subname": "POM\u00b4BEL",
-        "price": "4,06"
+        "price": "3,99"
     },
     {
         "name": "Pom\u00b4bel \u00f5una-banaani-maasika puuviljamiks, 4x100 g",
@@ -116,18 +116,13 @@
     },
     {
         "name": "F\u00dc\u00dcSAL 100 G",
-        "subname": "Poola",
-        "price": "2,09"
-    },
-    {
-        "name": "\u00d5un Pink Lady I klass",
         "subname": "Brasiilia",
-        "price": "4,49"
+        "price": "1,99"
     },
     {
         "name": "Melon roheline",
         "subname": "RAINBOW, Lav",
-        "price": "2,99"
+        "price": "2,69"
     },
     {
         "name": "Hele viinamari seemneteta 500g",
@@ -146,17 +141,82 @@
     },
     {
         "name": "Avokaado Fuerto",
-        "subname": "Poola",
+        "subname": "Iraan",
         "price": "4,95"
     },
     {
-        "name": "\u00d5un Royal Gala, I klass",
+        "name": "Kiivi, I klass",
+        "subname": "HALIKA, Eesti",
+        "price": "3,49"
+    },
+    {
+        "name": "\u00d5un Keepsake I klass",
+        "subname": "Hispaania",
+        "price": "3,19"
+    },
+    {
+        "name": "Bimi broccolini 200g",
+        "subname": "Itaalia",
+        "price": "2,29"
+    },
+    {
+        "name": "Apelsin Tarocco I klass",
+        "subname": "Brasiilia",
+        "price": "3,99"
+    },
+    {
+        "name": "Melon Cantaloupe",
+        "subname": "Lav",
+        "price": "2,99"
+    },
+    {
+        "name": "Viinamari tume D.B.HANNAH, I klass",
+        "subname": "Lav",
+        "price": "4,49"
+    },
+    {
+        "name": "Viinamari hele IFG Ten, I klass, seemneteta",
+        "subname": "Brasiilia",
+        "price": "4,99"
+    },
+    {
+        "name": "Mini arbuus",
+        "subname": "Hispaania",
+        "price": "2,49"
+    },
+    {
+        "name": "Apelsin Cara Cara I klass",
+        "subname": "Holland",
+        "price": "2,99"
+    },
+    {
+        "name": "Avokaado, s\u00f6\u00f6givalmis 2 tk",
+        "subname": "Holland",
+        "price": "2,29"
+    },
+    {
+        "name": "Pirn Conference, I klass",
+        "subname": "Itaalia",
+        "price": "1,19"
+    },
+    {
+        "name": "\u00d5un Jonagold I  klass",
+        "subname": "Prantsusmaa",
+        "price": "1,19"
+    },
+    {
+        "name": "Apelsin punane v\u00f5rgus Moro 1 kg I klass",
         "subname": "Kolumbia",
-        "price": "2,05"
+        "price": "2,69"
+    },
+    {
+        "name": "\u00d5un Granny Smith, I klass",
+        "subname": "POM\u00b4BEL",
+        "price": "2,99"
     },
     {
         "name": "F\u00dc\u00dcSAL PUHASTATUD 125 G",
-        "subname": "POM\u00b4BEL",
+        "subname": "Egiptus",
         "price": "3,35"
     },
     {
@@ -167,72 +227,12 @@
     {
         "name": "Apelsin Navel I klass",
         "subname": "Egiptus",
-        "price": "2,49"
-    },
-    {
-        "name": "Greip Star Ruby punane",
-        "subname": "Egiptus",
-        "price": "1,99"
-    },
-    {
-        "name": "Sidrun, I klass",
-        "subname": "Peruu",
-        "price": "1,38"
-    },
-    {
-        "name": "Granaat\u00f5un",
-        "subname": "Prantsusmaa",
-        "price": "4,29"
-    },
-    {
-        "name": "\u00d5un mahe Lolipop I klass",
-        "subname": "Hiina",
-        "price": "3,55"
-    },
-    {
-        "name": "Pirn\u00f5un Nashi I klass",
-        "subname": "Poola",
-        "price": "4,59"
-    },
-    {
-        "name": "\u00d5un pakendatud I Klass 1 kg",
-        "subname": "Itaalia",
-        "price": "1,31"
-    },
-    {
-        "name": "Kiivi I klass 1 kg",
-        "subname": "Maroko",
-        "price": "3,59"
-    },
-    {
-        "name": "Klementiin Nadorcott I klass",
-        "subname": "Itaalia",
-        "price": "1,99"
-    },
-    {
-        "name": "\u00d5un mahe pakendatud 4 tk",
-        "subname": "Costa rica",
-        "price": "2,65"
-    },
-    {
-        "name": "ANANASS EXTRA SWEET",
-        "subname": "Eesti",
-        "price": "1,98"
-    },
-    {
-        "name": "Melonimix 250g",
-        "subname": "Panama",
-        "price": "2,49"
-    },
-    {
-        "name": "Banaan",
-        "subname": "Ecuador",
-        "price": "1,02"
+        "price": "2,29"
     },
     {
         "name": "Lehtsalat  potis",
         "subname": "GR\u00dcNE FEE",
-        "price": "1,59"
+        "price": "1,39"
     },
     {
         "name": "Metsik rukola, 100 g",
@@ -262,7 +262,7 @@
     {
         "name": "Beebi  spinat, 100 g",
         "subname": "GR\u00dcNE FEE",
-        "price": "1,69"
+        "price": "1,49"
     },
     {
         "name": "Rainbow magus paprika I klass 300g",
@@ -272,7 +272,7 @@
     {
         "name": "Lambsalat 100g",
         "subname": "KOTIMAISTA, Soome",
-        "price": "1,69"
+        "price": "1,79"
     },
     {
         "name": "Coop paprika mix, I klass, 400 g",
@@ -302,17 +302,17 @@
     {
         "name": "J\u00e4\u00e4salat potis",
         "subname": "Eesti",
-        "price": "1,62"
+        "price": "1,69"
     },
     {
         "name": "BAKLAZHAAN",
         "subname": "Poola",
-        "price": "2,59"
+        "price": "2,99"
     },
     {
         "name": "Paprika oranz I klass kg",
         "subname": "Hispaania",
-        "price": "3,19"
+        "price": "3,79"
     },
     {
         "name": "Nuikapsas",
@@ -342,7 +342,7 @@
     {
         "name": "J\u00c4\u00c4SALAT I KLASS",
         "subname": "Eesti",
-        "price": "2,69"
+        "price": "3,59"
     },
     {
         "name": "Must k\u00fc\u00fcslauk, 75 g",
@@ -427,7 +427,7 @@
     {
         "name": "Kartul pestud kollane  2,5kg talukartul",
         "subname": "TALUKARTUL, Eesti",
-        "price": "3,69"
+        "price": "2,89"
     },
     {
         "name": "Kartul Laura 2 KG pestud",
@@ -462,7 +462,7 @@
     {
         "name": "Kartul varajane Spunta kg",
         "subname": "Egiptus",
-        "price": "1,39"
+        "price": "1,29"
     },
     {
         "name": "Kartul pestud kg",
@@ -482,7 +482,7 @@
     {
         "name": "Bataat",
         "subname": "Usa",
-        "price": "1,99"
+        "price": "1,89"
     },
     {
         "name": "Kartul Red Lady 2,5 kg",
@@ -497,7 +497,7 @@
     {
         "name": "Beebi porgand 250 g",
         "subname": "KADARBIKU TALU",
-        "price": "1,59"
+        "price": "1,29"
     },
     {
         "name": "Pakitud porgand 500 g",
@@ -507,7 +507,7 @@
     {
         "name": "Aurutatud-kooritud peet vaakumis 500 g",
         "subname": "KADARBIKU TALU, Eesti",
-        "price": "1,89"
+        "price": "1,39"
     },
     {
         "name": "Porgand Crispy 200 g",
@@ -541,13 +541,8 @@
     },
     {
         "name": "Keedupeet 500 g",
-        "subname": "Eesti",
-        "price": "0,99"
-    },
-    {
-        "name": "Mahe porgand 500g",
         "subname": "Hispaania",
-        "price": "1,69"
+        "price": "0,99"
     },
     {
         "name": "Roheline jalopeno (medium)",
@@ -561,28 +556,28 @@
     },
     {
         "name": "Porgand",
-        "subname": "Eesti",
+        "subname": "Soome",
         "price": "0,45"
+    },
+    {
+        "name": "Mahe porgand 500g",
+        "subname": "Eesti",
+        "price": "1,69"
     },
     {
         "name": "Pudelk\u00f5vits kg",
         "subname": "Itaalia",
-        "price": "1,99"
+        "price": "2,19"
     },
     {
         "name": "Fenkol kg",
-        "subname": "Eesti",
+        "subname": "L\u00e4ti",
         "price": "2,99"
     },
     {
         "name": "Viibergi keedupeet, 400 g",
-        "subname": "L\u00e4ti",
-        "price": "1,59"
-    },
-    {
-        "name": "Porgand pestud Premium 1 kg",
         "subname": "Prantsusmaa",
-        "price": "1,89"
+        "price": "1,59"
     },
     {
         "name": "M\u00f5isaproua aurutatud peet, 500 g",
@@ -596,73 +591,73 @@
     },
     {
         "name": "Pastinaak kg",
-        "subname": "Soome",
+        "subname": "Eesti",
         "price": "1,99"
     },
     {
         "name": "JUURSELLER",
-        "subname": "Soome",
+        "subname": "Itaalia",
         "price": "1,69"
     },
     {
         "name": "Mahe punapeet 500g",
-        "subname": "Leedu",
+        "subname": "Itaalia",
         "price": "2,09"
     },
     {
-        "name": "Kotimaista Porgand 1 Kg",
+        "name": "Porgand pestud Premium 1 kg",
+        "subname": "Taani",
+        "price": "1,89"
+    },
+    {
+        "name": "Redis tuutu 125g",
+        "subname": "Soome",
+        "price": "0,89"
+    },
+    {
+        "name": "Redis 500g",
+        "subname": "Soome",
+        "price": "1,99"
+    },
+    {
+        "name": "Sellerivars, pakitud",
+        "subname": "Leedu",
+        "price": "2,59"
+    },
+    {
+        "name": "Sn\u00e4kiporgand 200g",
         "subname": "Hispaania",
+        "price": "1,59"
+    },
+    {
+        "name": "Mahe keedetud peet 400 g",
+        "subname": "Hispaania",
+        "price": "2,39"
+    },
+    {
+        "name": "Mahe Varsseller 350g",
+        "subname": "Hiina",
+        "price": "1,92"
+    },
+    {
+        "name": "Juurpetersell 300g",
+        "subname": "L\u00e4ti",
+        "price": "1,99"
+    },
+    {
+        "name": "Kotimaista Porgand 1 Kg",
+        "subname": "M\u00d5ISAPROUA, L\u00e4ti",
         "price": "1,69"
     },
     {
         "name": "Kotimaista porgand 500g",
         "subname": "Itaalia",
-        "price": "0,99"
+        "price": "1,09"
     },
     {
         "name": "M\u00e4dar\u00f5igas 180g",
-        "subname": "Itaalia",
-        "price": "2,39"
-    },
-    {
-        "name": "Punane t\u0161illi 50g",
-        "subname": "Hispaania",
-        "price": "0,80"
-    },
-    {
-        "name": "Redis tuutu 125g",
-        "subname": "Hispaania",
-        "price": "0,89"
-    },
-    {
-        "name": "Redis 500g",
-        "subname": "Hiina",
-        "price": "1,99"
-    },
-    {
-        "name": "Sellerivars, pakitud",
-        "subname": "Taani",
-        "price": "2,69"
-    },
-    {
-        "name": "Mahe keedetud peet 400 g",
         "subname": "L\u00e4ti",
         "price": "2,39"
-    },
-    {
-        "name": "Jalapeno 50g",
-        "subname": "M\u00d5ISAPROUA, L\u00e4ti",
-        "price": "0,79"
-    },
-    {
-        "name": "Mahe Varsseller 350g",
-        "subname": "L\u00e4ti",
-        "price": "1,92"
-    },
-    {
-        "name": "Juurpetersell 300g",
-        "subname": "Itaalia",
-        "price": "1,99"
     },
     {
         "name": "J\u00f5hvikad Tuhksuhkrus 110g",
@@ -682,12 +677,12 @@
     {
         "name": "Kultuurmustikad, karbis, 300 g",
         "subname": "Kreeka",
-        "price": "4,49"
+        "price": "3,99"
     },
     {
         "name": "Maasikas 1 kg",
         "subname": "Portugal",
-        "price": "6,99"
+        "price": "8,99"
     },
     {
         "name": "Maasikas  250 g",
@@ -696,23 +691,13 @@
     },
     {
         "name": "Vaarikas, 125 g",
-        "subname": "Kreeka",
+        "subname": "Holland",
         "price": "3,65"
     },
     {
         "name": "KULTUURJ\u00d5HVIKAS 200 G",
-        "subname": "Holland",
-        "price": "3,04"
-    },
-    {
-        "name": "Maasikas s\u00fcdame karbis 340 g",
-        "subname": "Hispaania",
-        "price": "4,99"
-    },
-    {
-        "name": "Punane s\u00f5star 125 G",
         "subname": "T\u0161iili",
-        "price": "6,49"
+        "price": "3,04"
     },
     {
         "name": "\u0160ampinjon,  250 g",
@@ -800,11 +785,6 @@
         "price": "1,99"
     },
     {
-        "name": "Gr\u00fcne Fee petersell ja murulauk potis",
-        "subname": "GR\u00dcNE FEE, Eesti",
-        "price": "1,89"
-    },
-    {
         "name": "T\u00fc\u00fcmian potis",
         "subname": "GR\u00dcNE FEE, Eesti",
         "price": "1,99"
@@ -813,6 +793,11 @@
         "name": "Rooma salat potis",
         "subname": "J\u00c4RVIKYL\u00c4, Soome",
         "price": "1,89"
+    },
+    {
+        "name": "Koriander potis",
+        "subname": "KOTIMAISTA, Soome",
+        "price": "1,59"
     },
     {
         "name": "Petersell potis",
@@ -861,13 +846,8 @@
     },
     {
         "name": "Maitseroheline taldrikul",
-        "subname": "Soome",
-        "price": "13,21"
-    },
-    {
-        "name": "Mahe petersell potis",
         "subname": "Tai",
-        "price": "2,69"
+        "price": "13,21"
     },
     {
         "name": "Koriander 20g",
@@ -896,13 +876,8 @@
     },
     {
         "name": "Basiilik  potis",
-        "subname": "KOTIMAISTA, Soome",
-        "price": "1,59"
-    },
-    {
-        "name": "Kotimaista sidrunmeliss potis",
         "subname": "Eesti",
-        "price": "1,69"
+        "price": "1,59"
     },
     {
         "name": "Kodune hakkliha 400 g",
@@ -942,7 +917,7 @@
     {
         "name": "Seahakkliha 400 g",
         "subname": "RAKVERE, Eesti",
-        "price": "2,74"
+        "price": "2,39"
     },
     {
         "name": "Hakkliha sea-ja veiselihast 400 g",
@@ -1068,6 +1043,11 @@
         "name": "Seapraad klassikaline, kg",
         "subname": "RAKVERE, Eesti",
         "price": "6,50"
+    },
+    {
+        "name": "Seakaelakarbonaad kg",
+        "subname": "N\u00d5O LIHAV\u00dcRST, Eesti",
+        "price": "6,59"
     },
     {
         "name": "Sea kaelakarbonaad, kg",
@@ -1295,11 +1275,6 @@
         "price": "7,11"
     },
     {
-        "name": "Sea kaelakarbonaadi l\u00f5igud,  600 g",
-        "subname": "KARNI, Eesti",
-        "price": "7,11"
-    },
-    {
         "name": "broiler, jahutatud, KG",
         "subname": "RANNAM\u00d5ISA, Leedu",
         "price": "4,06"
@@ -1517,7 +1492,17 @@
     {
         "name": "GRUUSIA \u0160A\u0160L\u00d5KK 1KG",
         "subname": "RANNAROOTSI, Eesti",
-        "price": "8,89"
+        "price": "6,99"
+    },
+    {
+        "name": "Filee\u0161a\u0161l\u00f5kk jogurtimarinaadis, kg",
+        "subname": "TALLEGG, Eesti",
+        "price": "6,99"
+    },
+    {
+        "name": "Broileri kihtsuliha \u0161a\u0161l\u00f5kk, kg",
+        "subname": "ARMEENIA GRILL, Eesti",
+        "price": "8,99"
     },
     {
         "name": "Kalkuni \u0161a\u0161l\u00f5kk, kg",
@@ -1545,19 +1530,9 @@
         "price": "12,99"
     },
     {
-        "name": "KEEFIRIMARINAADIS \u0160A\u0160L\u00d5KK",
-        "subname": "Eesti",
-        "price": "9,99"
-    },
-    {
-        "name": "Filee\u0161a\u0161l\u00f5kk jogurtimarinaadis, kg",
+        "name": "MANGO-T\u0160ILLI BR.KINTSULIHA\u0160A\u0160L\u00d5KK 800G",
         "subname": "TALLEGG, Eesti",
-        "price": "6,99"
-    },
-    {
-        "name": "Broileri kihtsuliha \u0161a\u0161l\u00f5kk, kg",
-        "subname": "ARMEENIA GRILL, Eesti",
-        "price": "8,99"
+        "price": "5,99"
     },
     {
         "name": "Punase veini marinaadis grill-liha sea v\u00e4lisfileest, kg",
@@ -1725,16 +1700,6 @@
         "price": "4,06"
     },
     {
-        "name": "K\u00fclmsuitsu p\u00f5drasink, viilutatud 80 g",
-        "subname": "LINNAM\u00c4E, Eesti",
-        "price": "3,65"
-    },
-    {
-        "name": "Lihakas sink-vorst, viilutatud 250 g",
-        "subname": "HK, Soome",
-        "price": "2,13"
-    },
-    {
         "name": "Metssealihast sinkvorst viilutatud, 100 g",
         "subname": "RANNAROOTSI, Eesti",
         "price": "1,92"
@@ -1763,16 +1728,6 @@
         "name": "M\u00f5isa poolsuitsuvorst 190 g",
         "subname": "RAKVERE, Eesti",
         "price": "1,69"
-    },
-    {
-        "name": "Delikatess seav\u00e4lisfilee sink 150 g",
-        "subname": "MAKS & MOORITS, Eesti",
-        "price": "2,43"
-    },
-    {
-        "name": "Delikatess tagat\u00fcki sink 150 g",
-        "subname": "MAKS & MOORITS, Eesti",
-        "price": "2,33"
     },
     {
         "name": "Itaaliap\u00e4rane sink 150 g",
@@ -1805,6 +1760,26 @@
         "price": "3,04"
     },
     {
+        "name": "Seav\u00e4lisfilee sink 150 g",
+        "subname": "MAKS & MOORITS, Eesti",
+        "price": "2,39"
+    },
+    {
+        "name": "Peekoniviilud 140 g",
+        "subname": "RAINBOW, Poola",
+        "price": "1,75"
+    },
+    {
+        "name": "Mini poolsuitsuvorst 135 g",
+        "subname": "N\u00d5O, Eesti",
+        "price": "1,89"
+    },
+    {
+        "name": "V\u00f5ileivavorst, viilutatud 240 g",
+        "subname": "VALLA, Eesti",
+        "price": "0,89"
+    },
+    {
         "name": "Doktorivorst 300 g",
         "subname": "RAKVERE, Eesti",
         "price": "1,79"
@@ -1832,7 +1807,7 @@
     {
         "name": "Krakovi poolsuitsuvorst 270 g",
         "subname": "N\u00d5O, Eesti",
-        "price": "3,31"
+        "price": "2,59"
     },
     {
         "name": "Fuetec salaami 170 g",
@@ -2047,7 +2022,7 @@
     {
         "name": "Delikatess maksapasteet 200 g",
         "subname": "N\u00d5O, Eesti",
-        "price": "1,98"
+        "price": "1,39"
     },
     {
         "name": "Kodune pasteet karbis 180 g",
@@ -2252,7 +2227,7 @@
     {
         "name": "EHE viiner 330 g",
         "subname": "RANNAROOTSI, Eesti",
-        "price": "2,94"
+        "price": "2,59"
     },
     {
         "name": "Sealihas\u00fclt 330 g",
@@ -2365,11 +2340,6 @@
         "price": "6,89"
     },
     {
-        "name": "EHE Juustuviiner 330 g",
-        "subname": "RANNAROOTSI, Eesti",
-        "price": "2,94"
-    },
-    {
         "name": "Kodusardell 500 g",
         "subname": "MAKS & MOORITS, Eesti",
         "price": "2,23"
@@ -2415,9 +2385,9 @@
         "price": "2,33"
     },
     {
-        "name": "Kanaviiner 400 g",
-        "subname": "TALLEGG, Eesti",
-        "price": "1,75"
+        "name": "TOORVORSTID 400G",
+        "subname": "VALLA, Eesti",
+        "price": "2,59"
     },
     {
         "name": "Tooma verivorstike lambasooles 300g",
@@ -2440,11 +2410,6 @@
         "price": "2,79"
     },
     {
-        "name": "V\u00e4ike viiner juustuga 260 g",
-        "subname": "MAKS & MOORITS, Eesti",
-        "price": "1,98"
-    },
-    {
         "name": "Rannarootsi viiner 400 g",
         "subname": "RANNAROOTSI, Eesti",
         "price": "2,23"
@@ -2458,6 +2423,16 @@
         "name": "Vasikalihas\u00fclt 330 g",
         "subname": "RANNAROOTSI, Eesti",
         "price": "3,35"
+    },
+    {
+        "name": "Ahjuvorst 400 g",
+        "subname": "KOTIMAISTA, Soome",
+        "price": "1,41"
+    },
+    {
+        "name": "Kauak\u00fcpsetatud rebitud sealiha 240 g",
+        "subname": "OSKAR, Eesti",
+        "price": "4,02"
     },
     {
         "name": "Suitsutatud supikogu vaakumpakendis, kg",
@@ -2487,7 +2462,7 @@
     {
         "name": "Chorizo v\u00fcrtsitatud vorst 130 g",
         "subname": "RAINBOW, Hispaania",
-        "price": "2,02"
+        "price": "2,29"
     },
     {
         "name": "Serrano sink kondiga, kinkekarbis 7,25 kg",
@@ -2497,12 +2472,12 @@
     {
         "name": "Serrano sink 150 g",
         "subname": "RAINBOW, Hispaania",
-        "price": "3,29"
+        "price": "3,89"
     },
     {
         "name": "Hispaania Chorizo trio 150 g",
         "subname": "ARGAL, Hispaania",
-        "price": "3,24"
+        "price": "3,59"
     },
     {
         "name": "Serrano sink 105 g",
@@ -2792,7 +2767,7 @@
     {
         "name": "Mustikamarinaadis grill-liha 500 g",
         "subname": "RAKVERE, Eesti",
-        "price": "6,09"
+        "price": "4,99"
     },
     {
         "name": "Klassikaline ahjubroiler kg",
@@ -2887,7 +2862,7 @@
     {
         "name": "HOT & SPICY BROILERITIIVAD 700 G",
         "subname": "KIKAS, Eesti",
-        "price": "5,69"
+        "price": "5,99"
     },
     {
         "name": "Fitness sidruni-\u00fcrdimarinaadis broileririnnafilee 500 g",
@@ -2902,7 +2877,7 @@
     {
         "name": "Klassikaline Lambakarree 400 g",
         "subname": "LINNAM\u00c4E LIHAT\u00d6\u00d6ST, Eesti",
-        "price": "20,33"
+        "price": "15,89"
     },
     {
         "name": "Metsaseentega kaelakarbonaad 450 g",
@@ -3052,7 +3027,7 @@
     {
         "name": "Haug, roogitud, jahutatud, kg",
         "subname": "Eesti",
-        "price": "9,99"
+        "price": "7,99"
     },
     {
         "name": "L\u00f5hesteigid jahutatud, kg",
@@ -3265,19 +3240,24 @@
         "price": "3,85"
     },
     {
-        "name": "Austrid tk",
-        "subname": "Iirimaa",
-        "price": "2,25"
-    },
-    {
         "name": "SKUMBRIA K\u00dcLMSUITSU 1 KG",
         "subname": "Norra",
         "price": "11,15"
     },
     {
+        "name": "Vikerforellimari, sulatatud, kg",
+        "subname": "Soome",
+        "price": "64,90"
+    },
+    {
         "name": "Kuumsuitsu meriahven, kg",
         "subname": "Eesti",
         "price": "10,99"
+    },
+    {
+        "name": "Austrid tk",
+        "subname": "Iirimaa",
+        "price": "2,25"
     },
     {
         "name": "L\u00d5HERIBID KUUMSUITSU 1 KG",
@@ -3392,7 +3372,7 @@
     {
         "name": "Soolal\u00f5he, viilutatud 100 g",
         "subname": "M.V.WOOL, Eesti",
-        "price": "4,49"
+        "price": "2,99"
     },
     {
         "name": "Soolaheeringas, vaakumpakendis, kg",
@@ -3807,12 +3787,12 @@
     {
         "name": "\u0160okolaadir\u00f5ngastega jogurt, 150 g",
         "subname": "ALMA, Itaalia",
-        "price": "1,09"
+        "price": "0,89"
     },
     {
         "name": "Mandlit\u00fckkide ja \u0161okolaadiga jogurt, 150 g",
         "subname": "ALMA, Itaalia",
-        "price": "1,09"
+        "price": "0,89"
     },
     {
         "name": "Vaarika-granaat\u00f5una joogijogurt, 300 g",
@@ -3957,7 +3937,7 @@
     {
         "name": "Jogurtijook 12x100g, maasika-mustika",
         "subname": "ACTIMEL, L\u00e4ti",
-        "price": "5,69"
+        "price": "4,19"
     },
     {
         "name": "Mustika-maasikasmuuti, 300 g",
@@ -4047,7 +4027,7 @@
     {
         "name": "Koorene vaniljepuding, 230 g",
         "subname": "FARMI, Eesti",
-        "price": "1,11"
+        "price": "0,89"
     },
     {
         "name": "Vanilje koorekreem, 150 g",
@@ -4262,7 +4242,7 @@
     {
         "name": "Toffee koorene glasuurkohuke, 40 g",
         "subname": "SAARE, Eesti",
-        "price": "0,50"
+        "price": "0,35"
     },
     {
         "name": "\u0160okolaadi glasuurkohuke, 45 g",
@@ -4317,7 +4297,7 @@
     {
         "name": "Mustikakisselliga kohupiimakreem, 150 g",
         "subname": "EMMA, Eesti",
-        "price": "0,80"
+        "price": "0,69"
     },
     {
         "name": "Milk Slice magustoit, 28g",
@@ -4347,7 +4327,7 @@
     {
         "name": "Vaarikakisselliga kohupiimakreem, 150 g",
         "subname": "EMMA, Eesti",
-        "price": "0,80"
+        "price": "0,69"
     },
     {
         "name": "Vanilli glasuurkohuke, 7 x 45 g",
@@ -4400,79 +4380,14 @@
         "price": "1,52"
     },
     {
-        "name": "Emma kohupiimakreem maasika 150 g",
-        "subname": "EMMA, Eesti",
-        "price": "1,07"
-    },
-    {
-        "name": "Mangokisselliga kohupiimakreem, 140 g",
-        "subname": "ALMA, Eesti",
-        "price": "0,65"
-    },
-    {
-        "name": "Metsamarjakisselliga kohupiimakreem, 140 g",
-        "subname": "ALMA, Eesti",
-        "price": "0,65"
-    },
-    {
-        "name": "J\u00e4\u00e4tisemaitseline glasuurkohuke, 38 g",
-        "subname": "V\u00c4IKE TOM",
-        "price": "0,46"
-    },
-    {
-        "name": "Metsmaasikakisselliga kohupiimakreem, 140 g",
-        "subname": "ALMA, Eesti",
-        "price": "0,65"
-    },
-    {
-        "name": "Glasuuritud kakaodessert \u0161okolaadit\u00e4idisega, 38g",
-        "subname": "JEPPI, Eesti",
-        "price": "0,29"
-    },
-    {
-        "name": "Metsamarjadega kohupiimakreem, 150 g",
-        "subname": "EMMA, Eesti",
-        "price": "1,07"
-    },
-    {
-        "name": "Karums maasikakohuke maasikamaitselises glasuuris 45g",
-        "subname": "KARUMS, L\u00e4ti",
-        "price": "0,50"
-    },
-    {
-        "name": "Vanillimaitseline glasuuritud kohupiimadessert, 5 x 38 g",
-        "subname": "FARMI, Eesti",
-        "price": "1,19"
-    },
-    {
-        "name": "Alma kohupiimakreem metsmustika 150g",
-        "subname": "ALMA, Eesti",
-        "price": "1,09"
-    },
-    {
-        "name": "Alma kohupiimakreem rabarberikisselliga 140g",
-        "subname": "ALMA, Eesti",
-        "price": "0,65"
-    },
-    {
-        "name": "Tere Kohuke juustukoogi \u0161okolaadiglasuuriga 40 g",
-        "subname": "TERE, Eesti",
-        "price": "0,50"
-    },
-    {
-        "name": "Tere Kohuke j\u00f5hvika \u0161okolaadiglasuuriga 40 g",
-        "subname": "TERE, Eesti",
-        "price": "0,50"
-    },
-    {
-        "name": "Tere Kohuke vanilli \u0161okolaadiglasuuriga 40g",
-        "subname": "TERE, Eesti",
-        "price": "0,50"
+        "name": "Mooniseemnetega kohuke, 40 g",
+        "subname": "AASA, Leedu",
+        "price": "0,59"
     },
     {
         "name": "Muraka-sidruni koorene glasuurkohuke, 40 g",
         "subname": "SAARE, Eesti",
-        "price": "0,50"
+        "price": "0,35"
     },
     {
         "name": "ZOTT Monte snack 29g",
@@ -4492,7 +4407,72 @@
     {
         "name": "J\u00f5hvikakisselliga kohupiimakreem, 150 g",
         "subname": "EMMA, Eesti",
-        "price": "0,80"
+        "price": "0,69"
+    },
+    {
+        "name": "Maasikakisselliga kohupiimakreem, 150 g",
+        "subname": "EMMA, Eesti",
+        "price": "0,69"
+    },
+    {
+        "name": "Maxi King dessert, 3 x 35 g",
+        "subname": "KINDER, Euroopa liit",
+        "price": "2,49"
+    },
+    {
+        "name": "Vanillikohuke, 40 g",
+        "subname": "AASA, Leedu",
+        "price": "0,59"
+    },
+    {
+        "name": "Creme-brulee kohupiimakreem, 150 g",
+        "subname": "ALMA, Eesti",
+        "price": "1,09"
+    },
+    {
+        "name": "Rukkikamaga koorene kohupiimakreem, 150 g",
+        "subname": "FARMI, Eesti",
+        "price": "1,11"
+    },
+    {
+        "name": "Mustikakohuke, 40 g",
+        "subname": "AASA, Leedu",
+        "price": "0,59"
+    },
+    {
+        "name": "Brownie kohupiimakreem, 380 g",
+        "subname": "ALMA, Eesti",
+        "price": "1,89"
+    },
+    {
+        "name": "\u0160okolaadit\u00fckkidega kohuke, 40 g",
+        "subname": "AASA, Leedu",
+        "price": "0,59"
+    },
+    {
+        "name": "Vanillimaitseline kohupiim 3,5%, 500 g",
+        "subname": "RAINBOW, Saksamaa",
+        "price": "2,79"
+    },
+    {
+        "name": "Mango kohupiimakreem, 500 g",
+        "subname": "RAINBOW, Saksamaa",
+        "price": "2,79"
+    },
+    {
+        "name": "Vaarikatega kohupiimakreem, 100 g",
+        "subname": "NOPRI, Eesti",
+        "price": "0,97"
+    },
+    {
+        "name": "Laktoosivaba vanilli glasuurkohuke, 40 g",
+        "subname": "SAARE, Eesti",
+        "price": "0,35"
+    },
+    {
+        "name": "Glasuuritud vanillimaitseline dessert C-vitamiiniga 38g",
+        "subname": "BALTAIS, L\u00e4ti",
+        "price": "0,17"
     },
     {
         "name": "Vaarikamaitseline tarretis, 150 g",
@@ -4662,17 +4642,17 @@
     {
         "name": "Pere piim 2,5% 1L kile",
         "subname": "PERE, Eesti",
-        "price": "0,56"
+        "price": "0,49"
     },
     {
         "name": "Piim 2,5%, 1,5 l",
         "subname": "ALMA, Eesti",
-        "price": "1,35"
+        "price": "1,41"
     },
     {
         "name": "Piim 2,5%, D-vitamiiniga, 1 l",
         "subname": "TERE, Eesti",
-        "price": "1,19"
+        "price": "0,89"
     },
     {
         "name": "Piim 2,5%, 1 l",
@@ -4682,7 +4662,7 @@
     {
         "name": "Keefir 2,5%, 1 kg",
         "subname": "GEFILUS, Eesti",
-        "price": "1,45"
+        "price": "1,09"
     },
     {
         "name": "Biokeefir 2,5%, 1 kg",
@@ -4867,7 +4847,7 @@
     {
         "name": "T\u00e4ispiim 3,8%-4,2%, 2 l",
         "subname": "FARMI, Eesti",
-        "price": "2,29"
+        "price": "1,89"
     },
     {
         "name": "T\u00e4ispiim 3,8-4,2%, 1 l",
@@ -4882,7 +4862,7 @@
     {
         "name": "Hapendatud pett, 1 kg",
         "subname": "FARMI, Eesti",
-        "price": "1,15"
+        "price": "0,99"
     },
     {
         "name": "Alma t\u00e4ispiim 3,8-4,2% 2l",
@@ -5022,7 +5002,7 @@
     {
         "name": "YOOK Kaerajook Barista 1L",
         "subname": "YOOK, Eesti",
-        "price": "2,84"
+        "price": "2,09"
     },
     {
         "name": "YOOK Kaerajook Vitamins & Calcium 1L",
@@ -5377,7 +5357,7 @@
     {
         "name": "Piimameister Otto Ricotta kohupiim 200g",
         "subname": "PIIMAMEISTER OTTO, Eesti",
-        "price": "0,70"
+        "price": "0,55"
     },
     {
         "name": "Piimameister Otto Ricotta vanillimaitseline kohupiim 200g",
@@ -5557,7 +5537,7 @@
     {
         "name": "Hapukoorega kodujuust, 330g",
         "subname": "PIIMAMEISTER OTTO, Eesti",
-        "price": "1,82"
+        "price": "1,39"
     },
     {
         "name": "Rohke koorega kodujuust, 330 g",
@@ -5582,7 +5562,7 @@
     {
         "name": "Klassikaline kodujuust, 330 g",
         "subname": "PIIMAMEISTER OTTO, Eesti",
-        "price": "1,82"
+        "price": "1,39"
     },
     {
         "name": "Hapukoorega kodujuust, 380 g",
@@ -5797,27 +5777,27 @@
     {
         "name": "Hiirte Sulatatud Juust 185g",
         "subname": "HIIRTE JUUST, Eesti",
-        "price": "1,58"
+        "price": "1,19"
     },
     {
         "name": "Hiirte Sulatatud Juust maitserohelisega 185g",
         "subname": "HIIRTE JUUST, Eesti",
-        "price": "1,62"
+        "price": "1,19"
     },
     {
         "name": "Hiirte Sulatatud Juust suitsujuustuga 185g",
         "subname": "HIIRTE JUUST, Eesti",
-        "price": "1,62"
+        "price": "1,19"
     },
     {
         "name": "Hiirte Sulatatud Juust kukeseentega 185g",
         "subname": "HIIRTE JUUST, Eesti",
-        "price": "1,62"
+        "price": "1,19"
     },
     {
         "name": "Hiirte Sulatatud Juust krevettidega 185g",
         "subname": "HIIRTE JUUST, Eesti",
-        "price": "1,62"
+        "price": "1,19"
     },
     {
         "name": "Valio sulatatud juust 185g",
@@ -5857,7 +5837,7 @@
     {
         "name": "Juust Atleet Originaal, viilutatud, 500 g",
         "subname": "VALIO, Eesti",
-        "price": "6,09"
+        "price": "2,99"
     },
     {
         "name": "Eesti juust, viilutatud, 500 g",
@@ -5877,12 +5857,12 @@
     {
         "name": "Juust Atleet Originaal, 500 g",
         "subname": "VALIO, Eesti",
-        "price": "2,65"
+        "price": "5,69"
     },
     {
         "name": "Vene juust, viilutatud, 150 g",
         "subname": "ESTOVER, Eesti",
-        "price": "1,82"
+        "price": "1,19"
     },
     {
         "name": "Eesti juust, 350 g",
@@ -6157,7 +6137,7 @@
     {
         "name": "Lapimaa juust, 220 g",
         "subname": "LAPIMAA JUUST, Soome",
-        "price": "4,06"
+        "price": "4,39"
     },
     {
         "name": "Sinihallitusjuust Alpenstern Blu, 100 g",
@@ -6192,7 +6172,7 @@
     {
         "name": "Rebitavad juustupulgad, 280 g",
         "subname": "PIK-NIK, Leedu",
-        "price": "4,35"
+        "price": "3,19"
     },
     {
         "name": "Baieri valgehallitusjuust, 150 g",
@@ -6312,7 +6292,7 @@
     {
         "name": "Eesti riivjuust, 200 g",
         "subname": "ESTOVER, Eesti",
-        "price": "2,33"
+        "price": "1,39"
     },
     {
         "name": "Mozzarella, 125 g",
@@ -6532,7 +6512,7 @@
     {
         "name": "Eesti juust riivitud 400g",
         "subname": "VALIO ODDLYGOOD, Soome",
-        "price": "2,69"
+        "price": "4,19"
     },
     {
         "name": "Oddlygood Veggie riivitud, 150 g",
@@ -6547,7 +6527,7 @@
     {
         "name": "kanamunad kodukoha M 10 tk",
         "subname": "KODUKOHA, Eesti",
-        "price": "1,92"
+        "price": "1,69"
     },
     {
         "name": "Kanamunad L, 10 tk",
@@ -6602,7 +6582,7 @@
     {
         "name": "Vabapidamise kanamunad M 10 tk",
         "subname": "LINNU TALU, Eesti",
-        "price": "2,69"
+        "price": "2,29"
     },
     {
         "name": "\u00d5rrekanade munad L 10TK",
@@ -6832,7 +6812,7 @@
     {
         "name": "Koorev\u00f5i 82%, 150g",
         "subname": "FARMI, Eesti",
-        "price": "1,82"
+        "price": "1,29"
     },
     {
         "name": "V\u00f5i k\u00fc\u00fcslaugu ja soolakristallidega, 150g",
@@ -6857,7 +6837,7 @@
     {
         "name": "Majonees Provansaal, 405 g",
         "subname": "LEMMIK, Eesti",
-        "price": "1,92"
+        "price": "1,59"
     },
     {
         "name": "Majonees Provansaal, 230 g",
@@ -7102,7 +7082,7 @@
     {
         "name": "Ovilo rapsi\u00f5li 1l",
         "subname": "OVILO, Eesti",
-        "price": "1,99"
+        "price": "1,57"
     },
     {
         "name": "Rapsi\u00f5li 1 l praadimiseks",
@@ -7157,7 +7137,7 @@
     {
         "name": "Ovilo p\u00e4evalille\u00f5li 1l",
         "subname": "OVILO",
-        "price": "1,69"
+        "price": "1,49"
     },
     {
         "name": "Oliivi\u00f5li rafineeritud 500 ml",
@@ -7193,11 +7173,6 @@
         "name": "Oliivij\u00e4\u00e4k\u00f5li 1 l",
         "subname": "OILIO, Kreeka",
         "price": "6,76"
-    },
-    {
-        "name": "Segu rafineeritud oliivi-ja v\u00e4\u00e4risoliivi\u00f5list 1 l",
-        "subname": "RAINBOW, Hispaania",
-        "price": "8,59"
     },
     {
         "name": "Ekstra v\u00e4\u00e4risoliivi\u00f5li 500 ml",
@@ -7408,6 +7383,16 @@
         "name": "K\u00f5rvitsa\u00f5li rafineerimata 500 ml",
         "subname": "GLORIA, Saksamaa",
         "price": "9,04"
+    },
+    {
+        "name": "KEEFIRIMARINAADIS \u0160A\u0160L\u00d5KK",
+        "subname": "Eesti",
+        "price": "7,49"
+    },
+    {
+        "name": "Bolognese kaste",
+        "subname": "Eesti",
+        "price": "8,02"
     },
     {
         "name": "Kanasupp 300 g",
@@ -7752,7 +7737,7 @@
     {
         "name": "Pihvid 400 g",
         "subname": "RAKVERE, Eesti",
-        "price": "3,85"
+        "price": "2,99"
     },
     {
         "name": "Pihvid juustuga 400 g",
@@ -7846,7 +7831,7 @@
     },
     {
         "name": "Filee\u0161nitsel juustu- ja singit\u00e4idisega 260 g",
-        "subname": "MAKS & MOORITS, Eesti",
+        "subname": "MAKS &amp; MOORITS, Eesti",
         "price": "2,43"
     },
     {
@@ -8437,7 +8422,7 @@
     {
         "name": "Pannkoogid singi-juustut\u00e4idisega 200 g",
         "subname": "MAMMA, Eesti",
-        "price": "2,29"
+        "price": "1,79"
     },
     {
         "name": "Retroburger 230 g",
@@ -8812,7 +8797,7 @@
     {
         "name": "Kanafileenagitsad 300 g",
         "subname": "TALLEGG, Eesti",
-        "price": "2,33"
+        "price": "1,79"
     },
     {
         "name": "Singirullid k\u00fc\u00fcslauguga 250 g",
@@ -9300,11 +9285,6 @@
         "price": "4,79"
     },
     {
-        "name": "HUXOL Original vedel suhkruasendaja gluteenivaba 200 ml",
-        "subname": "HUXOL, Saksamaa",
-        "price": "2,02"
-    },
-    {
         "name": "Hermesetas suhkruasendaja pulbri t\u00e4itepakk 90 g",
         "subname": "HERMESETAS",
         "price": "2,90"
@@ -9722,7 +9702,7 @@
     {
         "name": "Himaalaja sool 1 kg",
         "subname": "Pakistan",
-        "price": "2,63"
+        "price": "1,99"
     },
     {
         "name": "Aroomisool  74 g",
@@ -10977,7 +10957,7 @@
     {
         "name": "Valge k\u00fcpsetus\u0161okolaad 100 g",
         "subname": "RAINBOW, Prantsusmaa",
-        "price": "1,31"
+        "price": "0,84"
     },
     {
         "name": "Kuivp\u00e4rm 2*12 g 24 g",
@@ -11227,7 +11207,7 @@
     {
         "name": "Jassi seemneleib, 310 g",
         "subname": "EESTI PAGAR, Eesti",
-        "price": "1,11"
+        "price": "0,85"
     },
     {
         "name": "Must seemneleib, 280 g",
@@ -11342,7 +11322,7 @@
     {
         "name": "Isa peenleib 355 g",
         "subname": "LEIBUR, Eesti",
-        "price": "0,89"
+        "price": "0,69"
     },
     {
         "name": "Ruks seemneleib 390 g",
@@ -11692,7 +11672,7 @@
     {
         "name": "Rukkipala, 330 g",
         "subname": "LEIBUR, Eesti",
-        "price": "1,19"
+        "price": "0,75"
     },
     {
         "name": "OatFit kaeras\u00fcda, 250 g",
@@ -11772,7 +11752,7 @@
     {
         "name": "Suur Perenaise sai, 500 g",
         "subname": "EESTI PAGAR, Eesti",
-        "price": "0,89"
+        "price": "0,85"
     },
     {
         "name": "Suur kodusai, 500 g",
@@ -11817,7 +11797,7 @@
     {
         "name": "Kirde sai, 300 g",
         "subname": "LEIBUR, Eesti",
-        "price": "0,89"
+        "price": "0,85"
     },
     {
         "name": "Suur Kirde sai 450 g",
@@ -11877,7 +11857,7 @@
     {
         "name": "Rukkisepik, 300 g",
         "subname": "EESTI PAGAR, Eesti",
-        "price": "1,11"
+        "price": "0,85"
     },
     {
         "name": "Suhkruvaba sepik, 280 g",
@@ -12042,7 +12022,7 @@
     {
         "name": "Juustumuhkel, 200 g",
         "subname": "FAZER, L\u00e4ti",
-        "price": "1,05"
+        "price": "0,99"
     },
     {
         "name": "Juustukukkel, 200 g",
@@ -12532,7 +12512,7 @@
     {
         "name": "Meekook, 1 kg",
         "subname": "EESTI PAGAR, Eesti",
-        "price": "7,89"
+        "price": "6,99"
     },
     {
         "name": "Meekook, 280 g",
@@ -12732,7 +12712,7 @@
     {
         "name": "Aprikoosikook 310 g",
         "subname": "EESTI PAGAR, Eesti",
-        "price": "2,99"
+        "price": "2,25"
     },
     {
         "name": "Red Velvet kook, 350 g",
@@ -12770,6 +12750,56 @@
         "price": "2,49"
     },
     {
+        "name": "Limoncello tort 760 g",
+        "subname": "PAGARINI, Eesti",
+        "price": "12,79"
+    },
+    {
+        "name": "Kulit\u0161 130 g",
+        "subname": "EESTI PAGAR, Eesti",
+        "price": "1,49"
+    },
+    {
+        "name": "Kulit\u0161 300 g",
+        "subname": "EESTI PAGAR, Eesti",
+        "price": "2,59"
+    },
+    {
+        "name": "Keeks Kevadlambake 400 g",
+        "subname": "KUCHENMEISTER, Saksamaa",
+        "price": "6,09"
+    },
+    {
+        "name": "Minipasha 190 g",
+        "subname": "REVAL KONDIITER, Eesti",
+        "price": "2,99"
+    },
+    {
+        "name": "Pasha kook 300 g",
+        "subname": "EESTI PAGAR, Eesti",
+        "price": "3,39"
+    },
+    {
+        "name": "Puuviljakorvike 180 g",
+        "subname": "R\u00d5NGU PAGAR, Eesti",
+        "price": "2,99"
+    },
+    {
+        "name": "Kohupiimastollen 500 g",
+        "subname": "GOURMET CLUB, Eesti",
+        "price": "8,99"
+    },
+    {
+        "name": "Pasha 250 g",
+        "subname": "REVAL KONDIITER, Eesti",
+        "price": "4,19"
+    },
+    {
+        "name": "Kulit\u0161  150 g",
+        "subname": "REVAL KONDIITER, Eesti",
+        "price": "1,89"
+    },
+    {
         "name": "Muretaigen, 500 g",
         "subname": "EESTI LEIVAT\u00d6\u00d6STUS, Eesti",
         "price": "3,45"
@@ -12782,7 +12812,7 @@
     {
         "name": "Germund r\u00f6stitud soolap\u00e4hklid 200 g",
         "subname": "GERMUND, Argentina",
-        "price": "1,41"
+        "price": "1,09"
     },
     {
         "name": "PCD soolatud maap\u00e4hklid 200 g",
@@ -12915,6 +12945,21 @@
         "price": "1,31"
     },
     {
+        "name": "Jersika Mango-salsa kr\u00f5psud 90 g",
+        "subname": "JERSIKA, L\u00e4ti",
+        "price": "2,43"
+    },
+    {
+        "name": "Jersika Sinihallitusjuustu kr\u00f5psud 90 g",
+        "subname": "JERSIKA, L\u00e4ti",
+        "price": "2,43"
+    },
+    {
+        "name": "Rainbow popkorn 100 g",
+        "subname": "RAINBOW, Taani",
+        "price": "1,39"
+    },
+    {
         "name": "Arimex Organic p\u00e4evalilleseemned 200 g",
         "subname": "ARIMEX, Hiina",
         "price": "2,23"
@@ -12998,21 +13043,6 @@
         "name": "Kartulivahvel hapukoore- ja sibulamaitseline 75 g",
         "subname": "LONG CHIPS, L\u00e4ti",
         "price": "1,09"
-    },
-    {
-        "name": "Estrella Cheddari- ja hapukooremaitselised kartulikr\u00f5psud 275 g",
-        "subname": "ESTRELLA, Rootsi",
-        "price": "3,39"
-    },
-    {
-        "name": "Maisikepikesed vanillimaitselised 100 g",
-        "subname": "M\u00d5NGEL, Eesti",
-        "price": "0,91"
-    },
-    {
-        "name": "Yes juustumaitselised p\u00e4evalilleseemned 150 g",
-        "subname": "Y.E.S., Leedu",
-        "price": "1,39"
     },
     {
         "name": "Pasta Sarveke 400 g",
@@ -13102,7 +13132,7 @@
     {
         "name": "S\u00f5mer riis 1 kg",
         "subname": "VESKI MATI, Saksamaa",
-        "price": "2,63"
+        "price": "1,99"
     },
     {
         "name": "Coop gnocchi durumpasta 500g",
@@ -13285,11 +13315,6 @@
         "price": "2,94"
     },
     {
-        "name": "Rainbow j\u00f5hvikad 150 g",
-        "subname": "RAINBOW, Usa",
-        "price": "1,62"
-    },
-    {
         "name": "Arimex Ekstra tudengieine 500 g",
         "subname": "ARIMEX, Leedu",
         "price": "6,79"
@@ -13382,7 +13407,7 @@
     {
         "name": "Germund Premium rosinad Jumbo 300 g",
         "subname": "GERMUND, T\u0161iili",
-        "price": "2,63"
+        "price": "1,89"
     },
     {
         "name": "Rainbow India p\u00e4hklid 100 g",
@@ -13495,6 +13520,11 @@
         "price": "2,59"
     },
     {
+        "name": "Estrella r\u00f6stitud maap\u00e4hklid meega 140 g",
+        "subname": "ESTRELLA, Poola",
+        "price": "2,59"
+    },
+    {
         "name": "Organic Health orgaaniline India suhkur, 400 g",
         "subname": "ORGANIC HEALTH",
         "price": "3,45"
@@ -13507,7 +13537,7 @@
     {
         "name": "Ket\u0161up Original  700 g",
         "subname": "HEINZ, Holland",
-        "price": "4,57"
+        "price": "3,19"
     },
     {
         "name": "Ket\u0161up Original 460 g",
@@ -13527,7 +13557,7 @@
     {
         "name": "Sojakaste Light 150 ml",
         "subname": "PEARL RIVER BRIDGE, Translation missing: et.origin_sn",
-        "price": "1,39"
+        "price": "0,99"
     },
     {
         "name": "Tomatipasta 300 g",
@@ -13577,7 +13607,7 @@
     {
         "name": "Magus t\u0161illikaste 700 ml",
         "subname": "THAI CHOICE, Tai",
-        "price": "4,67"
+        "price": "3,49"
     },
     {
         "name": "Pastakaste Basilico 400 g",
@@ -13672,7 +13702,7 @@
     {
         "name": "Gulja\u0161\u0161 530 g",
         "subname": "SALVEST, Eesti",
-        "price": "3,75"
+        "price": "2,99"
     },
     {
         "name": "Felix Tomati-t\u0161illi salatikaste 375g",
@@ -14160,12 +14190,12 @@
         "price": "4,87"
     },
     {
-        "name": "Old El Paso tortiljataskud, 8 tk 223 g",
-        "subname": "OLD EL PASO",
-        "price": "4,89"
+        "name": "Santa Maria peeditortilja, 6 tk 240 g",
+        "subname": "SANTA MARIA",
+        "price": "2,84"
     },
     {
-        "name": "Santa Maria peeditortilja, 6 tk 240 g",
+        "name": "Santa Maria porganditortilja, 6 tk 240 G",
         "subname": "SANTA MARIA",
         "price": "2,84"
     },
@@ -14182,12 +14212,12 @@
     {
         "name": "Racio Cornies linaseemnetega maisileivad 115 g",
         "subname": "RACIO, T\u0161ehhi",
-        "price": "1,41"
+        "price": "1,09"
     },
     {
         "name": "Marmiton k\u00fc\u00fcslauguleivad \u00e4mbris 350 g",
         "subname": "MARMITON, Eesti",
-        "price": "4,57"
+        "price": "2,99"
     },
     {
         "name": "Marmiton k\u00fc\u00fcslauguleivad topsis 150 g",
@@ -14217,7 +14247,7 @@
     {
         "name": "Racio Cornies meresoolaga maisileivad 115 g",
         "subname": "RACIO, T\u0161ehhi",
-        "price": "1,41"
+        "price": "1,09"
     },
     {
         "name": "Bon Chance k\u00fc\u00fcslaugu-juustumaitselised leivakr\u00f5psud 120 g",
@@ -14402,7 +14432,7 @@
     {
         "name": "Riisivahvlid piima\u0161okolaadiga, 90 g",
         "subname": "KUPIEC, Poola",
-        "price": "2,09"
+        "price": "1,49"
     },
     {
         "name": "Friggs riskakor pizza pitsamaitselised riisivahvlid 125 g",
@@ -14427,7 +14457,7 @@
     {
         "name": "Magus k\u00f5rsik 250g",
         "subname": "MAGUS K\u00d5RSIK, Eesti",
-        "price": "1,82"
+        "price": "1,39"
     },
     {
         "name": "Marmiton Tallinn rosinak\u00fcpsised 180 g",
@@ -14472,7 +14502,7 @@
     {
         "name": "Marmiton dessert vahvel kakaoga 110 g",
         "subname": "MARMITON, Eesti",
-        "price": "1,21"
+        "price": "0,89"
     },
     {
         "name": "Marmiton vaniliiniga Kooli vahvel 110 g",
@@ -14532,7 +14562,7 @@
     {
         "name": "Marmiton Tallinn rosinak\u00fcpsised 350 g",
         "subname": "MARMITON, Eesti",
-        "price": "2,84"
+        "price": "2,05"
     },
     {
         "name": "LORENZ SALTLETTS soolak\u00f5rsik 150g",
@@ -14815,99 +14845,99 @@
         "price": "1,31"
     },
     {
-        "name": "Myllyn Paras Em\u00e4nn\u00e4n poolj\u00e4me nisujahu 2 kg",
-        "subname": "MYLLYN PARAS",
-        "price": "2,33"
+        "name": "City Taste Jahusegu Kodused pannkoogid 400g",
+        "subname": "CITY TASTE, Leedu",
+        "price": "1,52"
     },
     {
-        "name": "Myllyn Paras rukkijahu 1 kg",
-        "subname": "MYLLYN PARAS",
-        "price": "1,31"
+        "name": "Maap\u00e4hklijahu 300g",
+        "subname": "ALVO, Argentina",
+        "price": "3,39"
     },
     {
-        "name": "Myllyn Paras kuivikupuru 300 g",
-        "subname": "MYLLYN PARAS",
-        "price": "1,01"
-    },
-    {
-        "name": "Myllyn Paras pitsajahu 1 kg",
-        "subname": "MYLLYN PARAS",
-        "price": "2,33"
-    },
-    {
-        "name": "Finnamyl Kolmen Konstin kartulit\u00e4rklis 500 g",
-        "subname": "FINNAMYL",
-        "price": "1,41"
-    },
-    {
-        "name": "Korpelan Mylly nisukliid 200 g",
-        "subname": "KORPELAN MYLLY",
-        "price": "1,11"
-    },
-    {
-        "name": "Linaseemnejahu 500g",
-        "subname": "SINI-PELLAVA",
-        "price": "2,43"
-    },
-    {
-        "name": "Myll\u00e4rin maherukkijahu 1 kg",
-        "subname": "MYLL\u00c4RIN, Soome",
-        "price": "1,99"
-    },
-    {
-        "name": "Myll\u00e4rin mahet\u00e4isteranisujahu 1 kg",
-        "subname": "MYLL\u00c4RIN, Soome",
-        "price": "1,82"
-    },
-    {
-        "name": "Sunnuntai nisujahu 2 kg",
-        "subname": "SUNNUNTAI",
-        "price": "4,57"
-    },
-    {
-        "name": "Papuska maheherned 500 g",
-        "subname": "PAPUSKA",
-        "price": "1,62"
-    },
-    {
-        "name": "Finnamyl mahekartulit\u00e4rklis 500 g",
-        "subname": "FINNAMYL, Soome",
-        "price": "1,99"
-    },
-    {
-        "name": "Rainbow kuivatatud rohelised herned 500g",
-        "subname": "RAINBOW",
-        "price": "0,70"
-    },
-    {
-        "name": "Urtekram vaniljejahu 10 g mahe",
-        "subname": "URTEKRAM",
-        "price": "9,96"
-    },
-    {
-        "name": "Fazer marianne brownie-jahusegu 350 g",
-        "subname": "FAZER",
-        "price": "4,77"
-    },
-    {
-        "name": "Fazer dumle k\u00fcpsisejahusegu 350 g",
-        "subname": "FAZER",
-        "price": "3,96"
-    },
-    {
-        "name": "Myllyn paras karamellipannkoogijahu 250 g",
-        "subname": "MYLLYN PARAS",
-        "price": "1,62"
-    },
-    {
-        "name": "Chiavazza pastajahu 1kg",
-        "subname": "IL MOLINO",
+        "name": "Virtasalmen Viljatuote gluteenivaba j\u00e4me riisijahu 500 g",
+        "subname": "VIRTASALMEN VILJAT",
         "price": "2,74"
     },
     {
-        "name": "Chiavazza nisujahu pizzale 1kg",
-        "subname": "IL MOLINO",
-        "price": "2,23"
+        "name": "Hungry Chef pitsajahu 750 g",
+        "subname": "HUNGRY CHEF",
+        "price": "2,94"
+    },
+    {
+        "name": "Hungry Chef pitsajahu 1 kg",
+        "subname": "HUNGRY CHEF",
+        "price": "3,14"
+    },
+    {
+        "name": "\u00d6koloogiline kikerhernejahu 350 g",
+        "subname": "FOODIN",
+        "price": "2,49"
+    },
+    {
+        "name": "Myll\u00e4rin gluteenivaba kaerajahu 950 g",
+        "subname": "MYLL\u00c4RIN",
+        "price": "4,89"
+    },
+    {
+        "name": "Virtasalmen gluteenivaba riisijahu 500 g",
+        "subname": "VIRTASALMEN VILJAT",
+        "price": "1,99"
+    },
+    {
+        "name": "Myllyn Paras perenaise t\u00e4istera kaerajahu 1 kg",
+        "subname": "MYLLYN PARAS",
+        "price": "1,99"
+    },
+    {
+        "name": "Myllyn Paras pannkoogi- ja vahvlijahu 250 g",
+        "subname": "MYLLYN PARAS",
+        "price": "1,49"
+    },
+    {
+        "name": "Elovena nisuidud 250 g",
+        "subname": "ELOVENA",
+        "price": "2,29"
+    },
+    {
+        "name": "Fazer gluteenivaba jahusegu 500 g",
+        "subname": "FAZER",
+        "price": "3,69"
+    },
+    {
+        "name": "Soyapp\u00e9tit sojajahu, 300g,",
+        "subname": "SOYAPP\u00c9TIT",
+        "price": "2,89"
+    },
+    {
+        "name": "Urtekram \u00f6koloogilised mustad oad 300 g",
+        "subname": "URTEKRAM",
+        "price": "1,69"
+    },
+    {
+        "name": "Urtekram punane poolitatud mahel\u00e4\u00e4ts 400 g",
+        "subname": "URTEKRAM",
+        "price": "2,69"
+    },
+    {
+        "name": "Urtekram roheline mahel\u00e4\u00e4ts 400 g",
+        "subname": "URTEKRAM",
+        "price": "2,69"
+    },
+    {
+        "name": "Nisujahu T-550 1 kg",
+        "subname": "KALEW, Eesti",
+        "price": "1,15"
+    },
+    {
+        "name": "Tartu Mill \u00d6ko rukkit\u00e4isterajahu 1,5 kg",
+        "subname": "TARTU MILL, Eesti",
+        "price": "2,19"
+    },
+    {
+        "name": "Toortatrajahu 500 g, mahe, gluteenivaba",
+        "subname": "REMEDYWAY, Eesti",
+        "price": "2,99"
     },
     {
         "name": "Kiirkaerahelbed 500g",
@@ -14957,7 +14987,7 @@
     {
         "name": "Tatrahelbed 500 g",
         "subname": "HELEN, Eesti",
-        "price": "3,04"
+        "price": "2,39"
     },
     {
         "name": "Riisihelbed 500 g",
@@ -14982,7 +15012,7 @@
     {
         "name": "Manna 500 g",
         "subname": "VESKI MATI, Leedu",
-        "price": "0,97"
+        "price": "0,69"
     },
     {
         "name": "Hirss 1 kg",
@@ -15182,7 +15212,7 @@
     {
         "name": "Kakaoga teraviljahelbed 500 g",
         "subname": "OHO, Leedu",
-        "price": "3,39"
+        "price": "2,49"
     },
     {
         "name": "Nestle Nesquik batoon 25g",
@@ -15302,7 +15332,7 @@
     {
         "name": "Kr\u00f5be m\u00fcsli punaste marjadega Granola Premium 350 g",
         "subname": "SANTE, Poola",
-        "price": "2,84"
+        "price": "2,39"
     },
     {
         "name": "Troopiline m\u00fcsli 700 g",
@@ -15487,7 +15517,7 @@
     {
         "name": "Knorr kiirnuudlid juustu- ja \u00fcrdimaitselised 61g",
         "subname": "KNORR, Venemaa",
-        "price": "0,89"
+        "price": "0,59"
     },
     {
         "name": "Kartulip\u00fcree 35 g",
@@ -15557,7 +15587,7 @@
     {
         "name": "Knorr kiirnuudlid kanamaitselised 61g",
         "subname": "KNORR, Poola",
-        "price": "0,89"
+        "price": "0,59"
     },
     {
         "name": "Idamaised kanamaitselised t\u00e4isterakiirnuudlid 60 g",
@@ -15577,12 +15607,12 @@
     {
         "name": "Kiirnuudliroog kana- ja teriyakimaitselise kastmega 96 g",
         "subname": "AJINOMOTO, Poola",
-        "price": "1,72"
+        "price": "1,29"
     },
     {
         "name": "Kiirnuudliroog v\u00fcrtsika kastmega 93 g",
         "subname": "AJINOMOTO, Poola",
-        "price": "1,72"
+        "price": "1,29"
     },
     {
         "name": "Maggi kanasupp nuudlitega 12 g",
@@ -15682,17 +15712,17 @@
     {
         "name": "Perekurk terved 680/360 g",
         "subname": "P\u00d5LTSAMAA, Eesti",
-        "price": "2,33"
+        "price": "1,79"
+    },
+    {
+        "name": "Pilaff 530 g",
+        "subname": "SALVEST, Eesti",
+        "price": "2,69"
     },
     {
         "name": "Mustad oliivid kivita 235/113 g",
         "subname": "RAINBOW, Hispaania",
         "price": "0,95"
-    },
-    {
-        "name": "Pilaff 530 g",
-        "subname": "SALVEST, Eesti",
-        "price": "3,35"
     },
     {
         "name": "Rassolnik veiselihaga 530 g",
@@ -15777,12 +15807,12 @@
     {
         "name": "Sprotid \u00f5lis 240 g",
         "subname": "MINU, L\u00e4ti",
-        "price": "2,33"
+        "price": "2,09"
     },
     {
         "name": "Rohelised herned 660/465 g",
         "subname": "BONDUELLE, Ungari",
-        "price": "3,04"
+        "price": "2,39"
     },
     {
         "name": "Tuunikala t\u0161illikastmes 180/90 g",
@@ -15832,7 +15862,7 @@
     {
         "name": "Tuunikala suured t\u00fckid \u00f5lis 185 g",
         "subname": "KAPTEN GRANT, Tai",
-        "price": "2,53"
+        "price": "1,89"
     },
     {
         "name": "V\u00e4rskekapsabor\u0161 veiselihaga 530 g",
@@ -15877,7 +15907,7 @@
     {
         "name": "Kadarbiku porgandimahl 500ml",
         "subname": "KADARBIKU, Eesti",
-        "price": "2,29"
+        "price": "1,79"
     },
     {
         "name": "P\u00f5ltsamaa j\u00f5hvikajook 1L",
@@ -15907,7 +15937,7 @@
     {
         "name": "Aura Fresh multifruit mahlajook 2L",
         "subname": "AURA, Eesti",
-        "price": "2,19"
+        "price": "1,99"
     },
     {
         "name": "Aura Fresh \u00f5una-kirsi-aroonia mahlajook 2L",
@@ -15937,7 +15967,7 @@
     {
         "name": "Pai vaarika-mustika smuuti 280ml",
         "subname": "Eesti",
-        "price": "2,02"
+        "price": "1,59"
     },
     {
         "name": "Aura multinektar 1L",
@@ -15952,7 +15982,7 @@
     {
         "name": "Aura \u00f5unamahl 1L",
         "subname": "Aura, Eesti",
-        "price": "1,69"
+        "price": "1,39"
     },
     {
         "name": "P\u00f5ltsamaa mustika-\u00f5unajook 1L",
@@ -15972,7 +16002,7 @@
     {
         "name": "P\u00f5ltsamaa kirsi-aroonia kannujook 1L",
         "subname": "P\u00d5LTSAMAA, Eesti",
-        "price": "3,24"
+        "price": "2,59"
     },
     {
         "name": "P\u00f5ltsamaa tomatimahl 100% 1L",
@@ -15997,7 +16027,7 @@
     {
         "name": "Pai mango-banaani smuuti, 280ml",
         "subname": "Pai, Eesti",
-        "price": "2,02"
+        "price": "1,59"
     },
     {
         "name": "P\u00f5ltsamaa musts\u00f5stra-vaarika kannujook 1L",
@@ -16017,12 +16047,12 @@
     {
         "name": "Reynar granaat\u00f5unamahl 1L",
         "subname": "REYNAR, Eesti",
-        "price": "2,85"
+        "price": "2,19"
     },
     {
         "name": "Pai maasika-banaani smuuti 280ml",
         "subname": "Eesti",
-        "price": "2,02"
+        "price": "1,59"
     },
     {
         "name": "Heinz tomatimahl 290ml",
@@ -16032,7 +16062,7 @@
     {
         "name": "Pai kiivi-mango smuuti 280ml",
         "subname": "Eesti",
-        "price": "2,02"
+        "price": "1,59"
     },
     {
         "name": "Cido k\u00f6\u00f6giviljamahl 100% 1L",
@@ -16112,7 +16142,7 @@
     {
         "name": "Karl Friedrich \u00f5lu 6-pakk 5%vol 3,408L",
         "subname": "SAKU, Eesti",
-        "price": "9,71"
+        "price": "7,39"
     },
     {
         "name": "A. Le Coq Premium hele \u00f5lu 4,7%vol 6-PAKK 3L",
@@ -16177,7 +16207,7 @@
     {
         "name": "A. Le Coq I \u00f5lu 2,9%, 500ml",
         "subname": "A. LE COQ, Eesti",
-        "price": "1,35"
+        "price": "1,09"
     },
     {
         "name": "Tuborg Green \u00f5lu 4,6%vol 330ml",
@@ -16477,7 +16507,7 @@
     {
         "name": "Hartwall original long drink alk.vaba 330ml",
         "subname": "HARTWALL, Soome",
-        "price": "0,89"
+        "price": "0,69"
     },
     {
         "name": "Mull\u00b0 alkoholivaba siider  rabarberiga",
@@ -16512,17 +16542,17 @@
     {
         "name": "Hoggys Rabarberi siider 4,5%vol 355ml",
         "subname": "HOGGYS, Eesti",
-        "price": "1,50"
+        "price": "1,19"
     },
     {
         "name": "Hoggys Kuiv siider 4,5%vol 355ml",
         "subname": "HOGGYS, Eesti",
-        "price": "1,50"
+        "price": "1,19"
     },
     {
         "name": "Hoggys Vaarika siider 4,5%vol 355ml",
         "subname": "HOGGYS, Eesti",
-        "price": "1,50"
+        "price": "1,19"
     },
     {
         "name": "Mull\u00b0 kuiv siider 750ml",
@@ -16830,14 +16860,19 @@
         "price": "2,24"
     },
     {
+        "name": "Absolut Drinks BlueberryLemonade muu alkohoolne jook 4%vol 27...",
+        "subname": "ABSOLUT, Rootsi",
+        "price": "2,33"
+    },
+    {
         "name": "Cooler Sour Rhubarb 4%vol muu alkohoolne jook 275ml",
         "subname": "Eesti",
-        "price": "1,64"
+        "price": "1,25"
     },
     {
         "name": "Cooler Dark Cherry 4%vol muu alkohoolne jook 275ml",
         "subname": "Eesti",
-        "price": "1,64"
+        "price": "1,25"
     },
     {
         "name": "Absolut Drinks Raspberry Lemonade muu alkohoolne jook 275ml",
@@ -16867,7 +16902,7 @@
     {
         "name": "Cooler Strawberry 4%vol muu alkohoolne jook 275 ml",
         "subname": "Eesti",
-        "price": "1,64"
+        "price": "1,25"
     },
     {
         "name": "De Kuyper Fizzy Passionfruit muu alkohoolne jook 4,5% 250 ml",
@@ -16887,7 +16922,7 @@
     {
         "name": "Cooler Golden Pear 4%vol muu alkohoolne jook 275ml",
         "subname": "COOLER, Eesti",
-        "price": "1,64"
+        "price": "1,25"
     },
     {
         "name": "MIX Vodka&Watermelon kokteil 330ml",
@@ -16912,7 +16947,7 @@
     {
         "name": "Cooler Aromatic Rose 4%vol muu alkohoolne jook 275ml",
         "subname": "COOLER, Eesti",
-        "price": "1,64"
+        "price": "1,25"
     },
     {
         "name": "Le Coq Tommy Collins 4,7%vol 330ml",
@@ -16955,6 +16990,16 @@
         "price": "1,65"
     },
     {
+        "name": "Cooler Passion Fruit 4%vol muu alkohoolne jook 275ml",
+        "subname": "Eesti",
+        "price": "1,25"
+    },
+    {
+        "name": "Jim Beam Bourbon Whiskey & Cola 330 ml",
+        "subname": "Usa",
+        "price": "2,59"
+    },
+    {
         "name": "Koskenkorva Village Tea 4,7%vol 330ml",
         "subname": "Soome",
         "price": "1,99"
@@ -16972,12 +17017,7 @@
     {
         "name": "Cooler Green Apple 4%vol muu alkohoolne jook 275ml",
         "subname": "Eesti",
-        "price": "1,64"
-    },
-    {
-        "name": "Absolut Drinks BlueberryLemonade muu alkohoolne jook 4%vol 27...",
-        "subname": "ABSOLUT, Rootsi",
-        "price": "2,33"
+        "price": "1,25"
     },
     {
         "name": "Smirnoff Ice muu alkohoolne jook 4%vol 250ml",
@@ -17007,7 +17047,7 @@
     {
         "name": "A. Le Coq traditsiooniline limonaad 1,5L",
         "subname": "A. LE COQ, Eesti",
-        "price": "1,39"
+        "price": "0,99"
     },
     {
         "name": "A. Le Coq traditsiooniline limonaad 500ml",
@@ -17100,6 +17140,11 @@
         "price": "1,25"
     },
     {
+        "name": "FAT BURNER ROHELINE TEE 500 ML",
+        "subname": "Eesti",
+        "price": "1,69"
+    },
+    {
         "name": "Sprite karastusjook 500ml",
         "subname": "Poola",
         "price": "1,15"
@@ -17117,7 +17162,7 @@
     {
         "name": "Tom&Jerry vahujook 750ml",
         "subname": "\u0414\u0418\u0421\u041d\u0415\u0419, Ungari",
-        "price": "3,85"
+        "price": "2,99"
     },
     {
         "name": "A. Le Coq greibi toonik 1,5L",
@@ -17126,11 +17171,6 @@
     },
     {
         "name": "RAINBOW SIDRUNI J\u00c4\u00c4TEE 1,5 L",
-        "subname": "RAINBOW",
-        "price": "2,05"
-    },
-    {
-        "name": "Rainbow virsikuj\u00e4\u00e4tee, 1,5L",
         "subname": "RAINBOW",
         "price": "2,05"
     },
@@ -17357,7 +17397,7 @@
     {
         "name": "Kohvifilter 1 X 4 100 tk beez",
         "subname": "RAINBOW, Saksamaa",
-        "price": "1,52"
+        "price": "1,59"
     },
     {
         "name": "Filtrikohv Classic 250 g  keskmine r\u00f6st",
@@ -17367,7 +17407,7 @@
     {
         "name": "Kohvifilter 1 X 4",
         "subname": "RAINBOW",
-        "price": "1,52"
+        "price": "1,59"
     },
     {
         "name": "Jahvatatud kohv Kr\u00f6nung 500 g",
@@ -17387,7 +17427,7 @@
     {
         "name": "X-Tra Kohvifilter 102/200 , pruun",
         "subname": "XTRA, Saksamaa",
-        "price": "1,82"
+        "price": "1,99"
     },
     {
         "name": "Filtrikohv Kulta Katriina 450 g \u00d6ko",
@@ -17412,7 +17452,7 @@
     {
         "name": "Kohvifilter 102 v\u00e4rvitu",
         "subname": "RAINBOW, Saksamaa",
-        "price": "1,41"
+        "price": "1,49"
     },
     {
         "name": "Maitsestatud kohvioad vanilje, p\u00e4hklimaitselised 200 g",
@@ -17502,7 +17542,7 @@
     {
         "name": "Paulig Mokka kohviuba 1kg",
         "subname": "PAULIG, Soome",
-        "price": "9,99"
+        "price": "9,89"
     },
     {
         "name": "CAFFEBO oakohv \"T\u00f5de\" 1kg",
@@ -17517,7 +17557,7 @@
     {
         "name": "Paulig Mokka jahvatatud kohv 475g",
         "subname": "PAULIG, Soome",
-        "price": "3,99"
+        "price": "3,89"
     },
     {
         "name": "JACOBS Kr\u00f6nung Instant lahustuv kohv 200 g",
@@ -17542,7 +17582,7 @@
     {
         "name": "Must tee Earl Grey sidruniga 50g",
         "subname": "LIPTON, Poola",
-        "price": "2,33"
+        "price": "2,39"
     },
     {
         "name": "Must tee sidruniga 20 x 1,7 g",
@@ -17552,7 +17592,7 @@
     {
         "name": "Must suureleheline purutee 50 g",
         "subname": "DILMAH, Sri lanka",
-        "price": "1,41"
+        "price": "1,39"
     },
     {
         "name": "Must tee mustas\u00f5stramaitseline 20 x 1,5 g",
@@ -17567,12 +17607,12 @@
     {
         "name": "Must purutee Ceylon 100 g",
         "subname": "DILMAH, Sri lanka",
-        "price": "2,63"
+        "price": "2,59"
     },
     {
         "name": "Roheline tee tsitruse 25 x 1,32 g",
         "subname": "LIPTON, Poola",
-        "price": "2,33"
+        "price": "2,39"
     },
     {
         "name": "Taimetee ingveri ja sidruni 20 x 1,75 g",
@@ -17582,22 +17622,22 @@
     {
         "name": "Must tee troopiliste viljadega 20  x 1,8 g",
         "subname": "LIPTON, Belgia",
-        "price": "2,63"
+        "price": "2,79"
     },
     {
         "name": "Must tee English Breakfast 25 x 2 g",
         "subname": "LIPTON, Poola",
-        "price": "1,92"
+        "price": "1,99"
     },
     {
         "name": "Roheline tee sidrunheina ja sidruniga 20 x 1,5 g",
         "subname": "DILMAH, Sri lanka",
-        "price": "2,53"
+        "price": "2,09"
     },
     {
         "name": "Roheline purutee Bergamot 80 g",
         "subname": "GURMANS, Saksamaa",
-        "price": "2,43"
+        "price": "2,49"
     },
     {
         "name": "Roheline tee mandariin ja apelsin 20 x 1,8 g",
@@ -17607,27 +17647,27 @@
     {
         "name": "Belin ingveri-astelpajutee 20 x 2 g",
         "subname": "BELIN, Poola",
-        "price": "0,91"
+        "price": "0,89"
     },
     {
         "name": "Must tee English breakfast 20 x 2 g",
         "subname": "RAINBOW, Saksamaa",
-        "price": "1,52"
+        "price": "1,49"
     },
     {
         "name": "Belin kibuvitsatee 20 x 2 g",
         "subname": "BELIN, Poola",
-        "price": "0,60"
+        "price": "0,59"
     },
     {
         "name": "Premium Earl Grey must tee,  25x 2 g",
         "subname": "BASILUR, Sri lanka",
-        "price": "1,52"
+        "price": "1,59"
     },
     {
         "name": "MOZUMS Tee Karkade 100g(karp)",
         "subname": "MOZUMS, L\u00e4ti",
-        "price": "2,33"
+        "price": "2,39"
     },
     {
         "name": "Dilmah karamellimaits. must tee niidiga kotis 20*1.5g",
@@ -17642,7 +17682,7 @@
     {
         "name": "Belin ingveritee laimiga 20*2g",
         "subname": "BELIN, Poola",
-        "price": "0,86"
+        "price": "0,89"
     },
     {
         "name": "TEEKANNE Rootsi mustika tee 45g",
@@ -17662,22 +17702,22 @@
     {
         "name": "HERBA kummelitee 31,3g",
         "subname": "TEEKANNE, Saksamaa",
-        "price": "1,27"
+        "price": "0,99"
     },
     {
         "name": "HERBA piparm\u00fcnditee 37,5g",
         "subname": "TEEKANNE, Saksamaa",
-        "price": "1,27"
+        "price": "0,99"
     },
     {
         "name": "HERBA puuviljatee 50g",
         "subname": "TEEKANNE, Saksamaa",
-        "price": "1,27"
+        "price": "1,29"
     },
     {
         "name": "HERBA apteegitillitee 43,8g",
         "subname": "TEEKANNE, Saksamaa",
-        "price": "1,27"
+        "price": "1,29"
     },
     {
         "name": "M\u00fcndine Must S\u00f5star 10x2,5g",
@@ -17702,12 +17742,12 @@
     {
         "name": "Carrefour English Breakfast tee  50X2g",
         "subname": "CARREFOUR",
-        "price": "1,92"
+        "price": "1,99"
     },
     {
         "name": "\u00c4nglamark Earl Grey tee, mahe 125g",
         "subname": "\u00c4NGLAMARK",
-        "price": "2,74"
+        "price": "2,79"
     },
     {
         "name": "Must tee Yellow Label 50 x 2 g.",
@@ -17727,7 +17767,7 @@
     {
         "name": "Roheline tee vaarika ja granaat\u00f5una 20 x 1,4 g",
         "subname": "LIPTON, Poola",
-        "price": "2,74"
+        "price": "2,79"
     },
     {
         "name": "Tee Ceylon 100 x 1,25 g",
@@ -17747,7 +17787,7 @@
     {
         "name": "Puuviljapurutee Red Dragon 100 g",
         "subname": "GURMANS, Saksamaa",
-        "price": "4,06"
+        "price": "4,09"
     },
     {
         "name": "Roheline purutee ingveri ja sidruniga 100 g",
@@ -17757,27 +17797,27 @@
     {
         "name": "Roheline purutee Valley 100 g",
         "subname": "BASILUR, Sri lanka",
-        "price": "4,46"
+        "price": "4,49"
     },
     {
         "name": "Piparm\u00fcndi-vaarikatee 20 g, \u00d6ko",
         "subname": "ENERGIA TALU, Eesti",
-        "price": "3,04"
+        "price": "2,99"
     },
     {
         "name": "Piparm\u00fcndi-mustas\u00f5stratee 20 g, \u00d6ko",
         "subname": "ENERGIA TALU, Eesti",
-        "price": "3,04"
+        "price": "3,09"
     },
     {
         "name": "Must tee ingveri ja meemaitseline 20 x 1,5 g",
         "subname": "DILMAH, Sri lanka",
-        "price": "2,43"
+        "price": "2,39"
     },
     {
         "name": "Kakaopulber 150 g",
         "subname": "KALEV, Eesti",
-        "price": "2,33"
+        "price": "2,49"
     },
     {
         "name": "Kakao 200 g",
@@ -17792,12 +17832,12 @@
     {
         "name": "Kakaojoogipulber 1 kg",
         "subname": "O'BOY, Rootsi",
-        "price": "6,80"
+        "price": "5,49"
     },
     {
         "name": "Kakaojoogipulber 192 g",
         "subname": "NESTLE, Suurbritannia",
-        "price": "5,07"
+        "price": "5,09"
     },
     {
         "name": "Kakaojoogipulber 10 x 28 g",
@@ -17807,7 +17847,7 @@
     {
         "name": "Kakaojoogikapslid 16 pk. 256 g",
         "subname": "NESCAFE, Hispaania",
-        "price": "6,91"
+        "price": "6,99"
     },
     {
         "name": "Kakaojoogipulber 800 g",
@@ -17817,32 +17857,32 @@
     {
         "name": "Kakaojoogipulber 800 g",
         "subname": "NESCAFE, Ungari",
-        "price": "8,53"
+        "price": "8,49"
     },
     {
         "name": "Kakaojoogipulber 250 g, mahe",
         "subname": "CLIPPER, Suurbritannia",
-        "price": "5,07"
+        "price": "5,49"
     },
     {
         "name": "Fazer Kakaojoogipulbe, 90 x 30 g",
         "subname": "FAZER",
-        "price": "0,59"
+        "price": "0,55"
     },
     {
         "name": "Nestl\u00e9 Nesquik Kakaojoogipulber, 400 g",
         "subname": "NESQUIK",
-        "price": "4,36"
+        "price": "4,39"
     },
     {
         "name": "O\u2019boy Kakaojoogipulber, 100 \u00d7 28 g",
         "subname": "O'BOY",
-        "price": "0,59"
+        "price": "0,55"
     },
     {
         "name": "Celiko Gumis kakaojook vitamiinidega, gluteenivaba",
         "subname": "CELIKO, Poola",
-        "price": "1,01"
+        "price": "0,99"
     },
     {
         "name": "Kakaojoogipulber v\u00e4hendatud suhkrusisaldusega , 500 g",
@@ -17852,7 +17892,7 @@
     {
         "name": "MOKATE \u0161okolaadijook MILK, magneesiumiga kott 18g x 10",
         "subname": "MOKATE, Poola",
-        "price": "2,33"
+        "price": "2,35"
     },
     {
         "name": "O'Boy Original kakaojoogipulber 450g",
@@ -17897,7 +17937,7 @@
     {
         "name": "Kuum \u0161okolaadijook piima\u0161okolaadi maitsega 250gr",
         "subname": "DECOMORRENO, Poola",
-        "price": "2,53"
+        "price": "2,69"
     },
     {
         "name": "Kakao 250 g",
@@ -17927,7 +17967,7 @@
     {
         "name": "SAAREMAA VESI 1,5 L",
         "subname": "SAAREMAA VESI, Eesti",
-        "price": "0,56"
+        "price": "0,49"
     },
     {
         "name": "Evian looduslik mineraalvesi 1,5 L",
@@ -17957,7 +17997,7 @@
     {
         "name": "SAAREMAA VESI N\u00d5RGALT GASEERITUD 1,5L",
         "subname": "SAAREMAA VESI, Eesti",
-        "price": "0,56"
+        "price": "0,49"
     },
     {
         "name": "Sanpellegrino mineraalvesi 1L",
@@ -17977,7 +18017,7 @@
     {
         "name": "VICHY FRESH GASEERIMATA JOOK SIDRUNI-LAIMI MAITSELINE 1,5L",
         "subname": "VICHYFRESH, Eesti",
-        "price": "1,31"
+        "price": "0,99"
     },
     {
         "name": "VITAMINERAL POWER VESI 750 ML GREIBI&SIDRUNHEINA MAITS.",
@@ -18052,7 +18092,7 @@
     {
         "name": "VITAMIN WELL RELOAD 500 ML VITAMIINIJOOK",
         "subname": "WITAMIN WELL, Rootsi",
-        "price": "2,02"
+        "price": "1,59"
     },
     {
         "name": "Vichy Classique vesi sidruni 500 ml",
@@ -18072,7 +18112,7 @@
     {
         "name": "SAAREMAA VESI SIDRUNI- 1,5 L MAITSELINE GAASIGA",
         "subname": "SAAREMAA VESI, Eesti",
-        "price": "0,59"
+        "price": "0,49"
     },
     {
         "name": "VITTEL MINERAALVESI 330 ML",
@@ -18137,7 +18177,7 @@
     {
         "name": "V\u00e4rska Naturaal Plus Goji J\u00f5hvikas maitsevesi 1,5 l",
         "subname": "Eesti",
-        "price": "1,41"
+        "price": "0,99"
     },
     {
         "name": "La Conda Semi Sweet Red GT vein 13%vol 750ml",
@@ -18952,7 +18992,7 @@
     {
         "name": "Saaremaa vodka 40%vol 500ml",
         "subname": "SAAREMAA VODKA, Eesti",
-        "price": "9,00"
+        "price": "7,99"
     },
     {
         "name": "Viru Valge viin 40%vol 1L",
@@ -19032,7 +19072,7 @@
     {
         "name": "Bacardi Oakheart Spiced piiritusjook 35%vol 700ml",
         "subname": "BACARDI, Saksamaa",
-        "price": "20,70"
+        "price": "15,99"
     },
     {
         "name": "J\u00e4germeister lik\u00f6\u00f6r 35%vol 350ml",
@@ -19127,7 +19167,7 @@
     {
         "name": "Mini-frikadellid, 350 g",
         "subname": "PEALINNA, L\u00e4ti",
-        "price": "2,63"
+        "price": "2,19"
     },
     {
         "name": "Kodune hakkliha, k\u00fclmutatud, 450 g",
@@ -19397,7 +19437,7 @@
     {
         "name": "Woki segu, 400 g",
         "subname": "H\u00c4RMAVILI, Poola",
-        "price": "1,72"
+        "price": "1,45"
     },
     {
         "name": "Klassikaline wokisegu, 500 g",
@@ -19422,7 +19462,7 @@
     {
         "name": "Friikartulid Kullakesed, 750 g",
         "subname": "H\u00c4RMAVILI, Poola",
-        "price": "2,63"
+        "price": "2,19"
     },
     {
         "name": "Kartuli-sibulasegu, 1 kg",
@@ -19632,7 +19672,7 @@
     {
         "name": "Laste pelmeenid, 350 g",
         "subname": "PEALINNA, L\u00e4ti",
-        "price": "2,02"
+        "price": "1,75"
     },
     {
         "name": "Hiina pelmeenid, 1 kg",
@@ -19727,7 +19767,7 @@
     {
         "name": "Pelmeenid, 900g",
         "subname": "RAKVERE, L\u00e4ti",
-        "price": "4,16"
+        "price": "3,89"
     },
     {
         "name": "Kymppi m\u00e4mmi, 700 g",
@@ -19847,7 +19887,7 @@
     {
         "name": "Magus t\u0161illi-teriyaki kana, 320 g",
         "subname": "RAINBOW",
-        "price": "3,35"
+        "price": "2,99"
     },
     {
         "name": "Baguette k\u00fc\u00fcslauguv\u00f5idega, 175 g",
@@ -19857,7 +19897,7 @@
     {
         "name": "Vaniljesaiake, 400 g",
         "subname": "EESTI PAGAR, Eesti",
-        "price": "2,90"
+        "price": "2,39"
     },
     {
         "name": "Lihapirukas, 400 g",
@@ -19882,7 +19922,7 @@
     {
         "name": "V\u00f5iga p\u00e4rmi-lehttaigen, 400 g",
         "subname": "EESTI PAGAR, Eesti",
-        "price": "3,55"
+        "price": "2,89"
     },
     {
         "name": "Peekoni-munapirukas, 390 g",
@@ -19957,7 +19997,7 @@
     {
         "name": "Viineripirukas 360 g",
         "subname": "EESTI PAGAR, Eesti",
-        "price": "3,79"
+        "price": "3,39"
     },
     {
         "name": "Singi-juustupirukas 360g",
@@ -20052,7 +20092,7 @@
     {
         "name": "Eesti Pagar XL Kaneelisaiake 800g",
         "subname": "EESTI PAGAR, Eesti",
-        "price": "6,19"
+        "price": "4,59"
     },
     {
         "name": "Mudakook, 400 g",
@@ -20102,7 +20142,7 @@
     {
         "name": "Ananassi-mango-papaia smuutisegu, 600 g",
         "subname": "RAINBOW, Taani",
-        "price": "3,65"
+        "price": "2,99"
     },
     {
         "name": "Maasika-banaani-mustika smuutisegu, 600 g",
@@ -20117,7 +20157,7 @@
     {
         "name": "Maasikad, 500 g",
         "subname": "RAINBOW, Maroko",
-        "price": "2,15"
+        "price": "1,99"
     },
     {
         "name": "Pohlad, 200 g",
@@ -20132,12 +20172,7 @@
     {
         "name": "Vaarikad, 500 g",
         "subname": "X-TRA",
-        "price": "4,77"
-    },
-    {
-        "name": "Marjasegu, 1 kg",
-        "subname": "MARJAMAA TALU, Eesti",
-        "price": "10,46"
+        "price": "4,69"
     },
     {
         "name": "Vaarikad,  1kg",
@@ -20167,22 +20202,22 @@
     {
         "name": "Sume Rose Creamy smuutisegu 250g",
         "subname": "SUME, Eesti",
-        "price": "2,63"
+        "price": "2,85"
     },
     {
         "name": "Sume Mojito smuutisegu 250g",
         "subname": "SUME, Eesti",
-        "price": "2,63"
+        "price": "2,85"
     },
     {
         "name": "Sume Green smuutisegu 250g",
         "subname": "SUME, Eesti",
-        "price": "2,63"
+        "price": "2,85"
     },
     {
         "name": "Sume Red smuutisegu 250g",
         "subname": "SUME, Eesti",
-        "price": "2,63"
+        "price": "2,85"
     },
     {
         "name": "H\u00c4RMAVILI Smuutisegu Artemise vibu 300g",
@@ -20190,9 +20225,14 @@
         "price": "1,95"
     },
     {
+        "name": "Marjasegu, 1 kg",
+        "subname": "MARJAMAA TALU, Eesti",
+        "price": "10,46"
+    },
+    {
         "name": "Kirsid kivideta, 300 g",
         "subname": "HORTEX, Poola",
-        "price": "1,19"
+        "price": "1,15"
     },
     {
         "name": "Vaarikad-mustikad, 300 g",
@@ -20205,14 +20245,24 @@
         "price": "1,15"
     },
     {
+        "name": "Jungle Juice Bar k\u00f6\u00f6giviljasmuutisegu 250g",
+        "subname": "JUNGLE JUICE BAR",
+        "price": "2,74"
+    },
+    {
+        "name": "Jungle Juice Bar puuviljasmuutisegu 250g",
+        "subname": "JUNGLE JUICE BAR",
+        "price": "2,74"
+    },
+    {
         "name": "V\u00e4ike Tom vanillij\u00e4\u00e4tis \u0161okolaadiglasuuriga, 90 ml",
         "subname": "PREMIA, Eesti",
-        "price": "0,91"
+        "price": "0,65"
     },
     {
         "name": "Eriti Rammus vanillij\u00e4\u00e4tis, 200 ml",
         "subname": "PREMIA, Eesti",
-        "price": "1,29"
+        "price": "1,25"
     },
     {
         "name": "Vanilli-koorej\u00e4\u00e4tis glasuuris, 110 ml",
@@ -20222,7 +20272,7 @@
     {
         "name": "V\u00e4ike Tom vanillij\u00e4\u00e4tis p\u00e4hklit\u00e4idise ja \u0161okolaadiglasuuriga,...",
         "subname": "PREMIA, Eesti",
-        "price": "0,91"
+        "price": "0,65"
     },
     {
         "name": "Vana Toomas vanilliplombiir \u0161okolaadiglasuuriga, 150 ml",
@@ -20232,7 +20282,7 @@
     {
         "name": "Eriti Rammus \u0161okolaadi-koorej\u00e4\u00e4tis, 200 ml",
         "subname": "PREMIA, Eesti",
-        "price": "1,29"
+        "price": "1,25"
     },
     {
         "name": "Vanilli-\u0161okolaadij\u00e4\u00e4tis, 6 tk",
@@ -20242,17 +20292,17 @@
     {
         "name": "Koorej\u00e4\u00e4tis Regatt, 1 l",
         "subname": "PREMIA, Eesti",
-        "price": "2,89"
+        "price": "2,79"
     },
     {
         "name": "Limonaadij\u00e4\u00e4, 70 ml",
         "subname": "LIMPA, Eesti",
-        "price": "0,56"
+        "price": "0,45"
     },
     {
         "name": "V\u00e4ike Tom Koolij\u00e4\u00e4tis, 90 ml",
         "subname": "PREMIA, Eesti",
-        "price": "0,91"
+        "price": "0,75"
     },
     {
         "name": "Eriti Rammus koorej\u00e4\u00e4tis, 1 l",
@@ -20262,7 +20312,7 @@
     {
         "name": "V\u00e4ike Tom \u0161okolaadij\u00e4\u00e4tis \u0161okolaadiglasuuriga, 90 ml",
         "subname": "PREMIA, Eesti",
-        "price": "0,91"
+        "price": "0,65"
     },
     {
         "name": "Koorej\u00e4\u00e4tis Regatt, 500 ml",
@@ -20287,7 +20337,7 @@
     {
         "name": "V\u00e4ike Tom vanillij\u00e4\u00e4tis \u0161okolaadilaastudega, 120 ml",
         "subname": "PREMIA, Eesti",
-        "price": "0,91"
+        "price": "0,75"
     },
     {
         "name": "Eriti Rammus \u0161okolaadi-koorej\u00e4\u00e4tis, 1 l",
@@ -20342,7 +20392,7 @@
     {
         "name": "Vanilliplombiir, 4,5 l",
         "subname": "PREMIA, Eesti",
-        "price": "14,23"
+        "price": "12,89"
     },
     {
         "name": "Vanilli-koorej\u00e4\u00e4tis \u0161okolaadit\u00fckkidega, 5 l",
@@ -20382,12 +20432,12 @@
     {
         "name": "Mango-maasika mahlaj\u00e4\u00e4, 70 ml",
         "subname": "LIMPA, Eesti",
-        "price": "0,56"
+        "price": "0,45"
     },
     {
         "name": "Regatt vanilli koorej\u00e4\u00e4tis kahe vahvli vahel, 180 ml",
         "subname": "PREMIA, L\u00e4ti",
-        "price": "0,91"
+        "price": "0,79"
     },
     {
         "name": "Vanillij\u00e4\u00e4tis, 500 ml",
@@ -20427,7 +20477,7 @@
     {
         "name": "Mahlapurikas, 65 ml",
         "subname": "BALBIINO, Holland",
-        "price": "0,66"
+        "price": "0,45"
     },
     {
         "name": "Lagritsaj\u00e4\u00e4tis, 900 ml",
@@ -20498,6 +20548,21 @@
         "name": "Rainbow hapukoore- ja sibulamaitselised kartulikr\u00f5psud 300 g",
         "subname": "RAINBOW",
         "price": "2,02"
+    },
+    {
+        "name": "Taffel Broadway kartulikr\u00f5psud hapukoore-sibulamaitselised 75 g",
+        "subname": "TAFFEL, Soome",
+        "price": "0,99"
+    },
+    {
+        "name": "Taffel Grills kartulikr\u00f5psud grillimaitselised 325 g",
+        "subname": "TAFFEL, Soome",
+        "price": "3,85"
+    },
+    {
+        "name": "Estrella Kartulikr\u00f5psud Ranch-Hapukoore 275 g",
+        "subname": "ESTRELLA, Rootsi",
+        "price": "3,39"
     },
     {
         "name": "Estrella Mikropopkorn v\u00f5imaitseline 3-pakk 240g",
@@ -20612,12 +20677,12 @@
     {
         "name": "Lay's Sibulamaitselised Kr\u00f5psud  200g",
         "subname": "LAY'S, Poola",
-        "price": "3,55"
+        "price": "2,29"
     },
     {
         "name": "Lay's Hapukooremaitselised Kr\u00f5psud 200g",
         "subname": "LAY'S, Poola",
-        "price": "3,59"
+        "price": "2,29"
     },
     {
         "name": "Pomsticks kartulisn\u00e4kid hapukoorega",
@@ -20670,21 +20735,6 @@
         "price": "0,99"
     },
     {
-        "name": "Taffel Broadway kartulikr\u00f5psud hapukoore-sibulamaitselised 75 g",
-        "subname": "TAFFEL, Soome",
-        "price": "0,99"
-    },
-    {
-        "name": "Taffel Grills kartulikr\u00f5psud grillimaitselised 325 g",
-        "subname": "TAFFEL, Soome",
-        "price": "3,85"
-    },
-    {
-        "name": "Estrella Kartulikr\u00f5psud Ranch-Hapukoore 275 g",
-        "subname": "ESTRELLA, Rootsi",
-        "price": "3,39"
-    },
-    {
         "name": "Germund soolased pistaatsiap\u00e4hklid 200 g",
         "subname": "GERMUND, Iraan",
         "price": "3,99"
@@ -20692,7 +20742,7 @@
     {
         "name": "Germund r\u00f6stitud soolap\u00e4hklid 200 g",
         "subname": "GERMUND, Argentina",
-        "price": "1,41"
+        "price": "1,09"
     },
     {
         "name": "PCD soolatud maap\u00e4hklid 200 g",
@@ -20765,11 +20815,6 @@
         "price": "1,31"
     },
     {
-        "name": "Estrella Cheddarimaitselised l\u00e4\u00e4tsesn\u00e4kid 125g",
-        "subname": "ESTRELLA",
-        "price": "2,84"
-    },
-    {
         "name": "K\u00f5rvitsaseemned, kooritud, r\u00f6st, sool 70 g",
         "subname": "MOGYI, Ungari",
         "price": "1,39"
@@ -20806,6 +20851,11 @@
     },
     {
         "name": "Soolap\u00e4hklid 175 g",
+        "subname": "ESTRELLA",
+        "price": "1,72"
+    },
+    {
+        "name": "T\u0161illimaitselised r\u00f6stitud maap\u00e4hklid ilma katteta 140 g",
         "subname": "ESTRELLA",
         "price": "1,72"
     },
@@ -20865,9 +20915,9 @@
         "price": "4,49"
     },
     {
-        "name": "T\u0161illimaitselised r\u00f6stitud maap\u00e4hklid ilma katteta 140 g",
-        "subname": "ESTRELLA",
-        "price": "1,72"
+        "name": "Pistaatsiap\u00e4hkel meresoolaga 500g P\u00e4hklin\u00e4pp",
+        "subname": "P\u00c4HKLIN\u00c4PP, Usa",
+        "price": "9,99"
     },
     {
         "name": "Yes juustumaitselised p\u00e4evalilleseemned 150 g",
@@ -20897,7 +20947,7 @@
     {
         "name": "P\u00e4hklin\u00e4pp pistaatsiap\u00e4hklid meresoolaga 200 g",
         "subname": "P\u00c4HKLIN\u00c4PP, Usa",
-        "price": "4,67"
+        "price": "3,49"
     },
     {
         "name": "P\u00e4hklin\u00e4pp k\u00f5rvitsaseemned 250 g",
@@ -21157,7 +21207,7 @@
     {
         "name": "Haribo R\u00f6\u00f6vikud, hapud kummikommid 160g",
         "subname": "HARIBO, Saksamaa",
-        "price": "2,15"
+        "price": "1,59"
     },
     {
         "name": "Chewits Juicy Bites Maasikas 115g",
@@ -21202,7 +21252,7 @@
     {
         "name": "Fazer Geisha \u0161okolaadikommikarp 150 g",
         "subname": "FAZER, Soome",
-        "price": "3,55"
+        "price": "2,59"
     },
     {
         "name": "Raffaello kommikarp 40 g",
@@ -21222,7 +21272,7 @@
     {
         "name": "Toffifee kommikarp 125 g",
         "subname": "TOFFIFEE, Euroopa liit",
-        "price": "2,69"
+        "price": "2,29"
     },
     {
         "name": "Toffifee 400 G Toffifee",
@@ -21477,12 +21527,12 @@
     {
         "name": "Halls mee ja sidruniga kurgupastillid 33 g",
         "subname": "HALLS, Eesti",
-        "price": "0,95"
+        "price": "1,05"
     },
     {
         "name": "Halls Extra Strong kurgupastillid 33 g",
         "subname": "HALLS, Eesti",
-        "price": "0,95"
+        "price": "1,05"
     },
     {
         "name": "Mynthon Lemon&Honey + Vitamiin C kurgupastillid 34 g",
@@ -21552,7 +21602,7 @@
     {
         "name": "Mamba n\u00e4tsukomm 4-pakk 106g",
         "subname": "MAMBA, Saksamaa",
-        "price": "1,25"
+        "price": "0,99"
     },
     {
         "name": "Jelly Bean 36 maitset gurmee tuub 90g",
@@ -21712,12 +21762,12 @@
     {
         "name": "V\u00e4ike Tom vanillij\u00e4\u00e4tis \u0161okolaadiglasuuriga, 90 ml",
         "subname": "PREMIA, Eesti",
-        "price": "0,91"
+        "price": "0,65"
     },
     {
         "name": "Eriti Rammus vanillij\u00e4\u00e4tis, 200 ml",
         "subname": "PREMIA, Eesti",
-        "price": "1,29"
+        "price": "1,25"
     },
     {
         "name": "Vanilli-koorej\u00e4\u00e4tis glasuuris, 110 ml",
@@ -21727,7 +21777,7 @@
     {
         "name": "V\u00e4ike Tom vanillij\u00e4\u00e4tis p\u00e4hklit\u00e4idise ja \u0161okolaadiglasuuriga,...",
         "subname": "PREMIA, Eesti",
-        "price": "0,91"
+        "price": "0,65"
     },
     {
         "name": "Vana Toomas vanilliplombiir \u0161okolaadiglasuuriga, 150 ml",
@@ -21737,7 +21787,7 @@
     {
         "name": "Eriti Rammus \u0161okolaadi-koorej\u00e4\u00e4tis, 200 ml",
         "subname": "PREMIA, Eesti",
-        "price": "1,29"
+        "price": "1,25"
     },
     {
         "name": "Vanilli-\u0161okolaadij\u00e4\u00e4tis, 6 tk",
@@ -21747,17 +21797,17 @@
     {
         "name": "Koorej\u00e4\u00e4tis Regatt, 1 l",
         "subname": "PREMIA, Eesti",
-        "price": "2,89"
+        "price": "2,79"
     },
     {
         "name": "Limonaadij\u00e4\u00e4, 70 ml",
         "subname": "LIMPA, Eesti",
-        "price": "0,56"
+        "price": "0,45"
     },
     {
         "name": "V\u00e4ike Tom Koolij\u00e4\u00e4tis, 90 ml",
         "subname": "PREMIA, Eesti",
-        "price": "0,91"
+        "price": "0,75"
     },
     {
         "name": "Eriti Rammus koorej\u00e4\u00e4tis, 1 l",
@@ -21767,7 +21817,7 @@
     {
         "name": "V\u00e4ike Tom \u0161okolaadij\u00e4\u00e4tis \u0161okolaadiglasuuriga, 90 ml",
         "subname": "PREMIA, Eesti",
-        "price": "0,91"
+        "price": "0,65"
     },
     {
         "name": "Koorej\u00e4\u00e4tis Regatt, 500 ml",
@@ -21792,7 +21842,7 @@
     {
         "name": "V\u00e4ike Tom vanillij\u00e4\u00e4tis \u0161okolaadilaastudega, 120 ml",
         "subname": "PREMIA, Eesti",
-        "price": "0,91"
+        "price": "0,75"
     },
     {
         "name": "Eriti Rammus \u0161okolaadi-koorej\u00e4\u00e4tis, 1 l",
@@ -21847,7 +21897,7 @@
     {
         "name": "Vanilliplombiir, 4,5 l",
         "subname": "PREMIA, Eesti",
-        "price": "14,23"
+        "price": "12,89"
     },
     {
         "name": "Vanilli-koorej\u00e4\u00e4tis \u0161okolaadit\u00fckkidega, 5 l",
@@ -21887,12 +21937,12 @@
     {
         "name": "Mango-maasika mahlaj\u00e4\u00e4, 70 ml",
         "subname": "LIMPA, Eesti",
-        "price": "0,56"
+        "price": "0,45"
     },
     {
         "name": "Regatt vanilli koorej\u00e4\u00e4tis kahe vahvli vahel, 180 ml",
         "subname": "PREMIA, L\u00e4ti",
-        "price": "0,91"
+        "price": "0,79"
     },
     {
         "name": "Vanillij\u00e4\u00e4tis, 500 ml",
@@ -21932,7 +21982,7 @@
     {
         "name": "Mahlapurikas, 65 ml",
         "subname": "BALBIINO, Holland",
-        "price": "0,66"
+        "price": "0,45"
     },
     {
         "name": "Lagritsaj\u00e4\u00e4tis, 900 ml",
@@ -21957,7 +22007,7 @@
     {
         "name": "Snickers \u0161okolaadibatoon 50 g",
         "subname": "SNICKERS, Holland",
-        "price": "0,69"
+        "price": "0,65"
     },
     {
         "name": "Milky Way piima\u0161okolaad 21 g",
@@ -22007,7 +22057,7 @@
     {
         "name": "\u0160okolaadibatoon k\u00fcpsisega",
         "subname": "TWIX, Holland",
-        "price": "0,69"
+        "price": "0,65"
     },
     {
         "name": "Nestle Kit Kat \u0161okolaad maap\u00e4hklikreemiga 42 g",
@@ -22122,7 +22172,7 @@
     {
         "name": "Milka piima\u0161okolaad Oreo 37 g",
         "subname": "MILKA, Poola",
-        "price": "0,79"
+        "price": "0,89"
     },
     {
         "name": "Mars \u0161okolaadibatoon 51 g",
@@ -22192,7 +22242,7 @@
     {
         "name": "Kalev Anneke piima\u0161okolaad 100 g",
         "subname": "KALEV, Eesti",
-        "price": "1,59"
+        "price": "1,29"
     },
     {
         "name": "Karl Fazer piima\u0161okolaad 200 g",
@@ -22307,12 +22357,12 @@
     {
         "name": "Piima\u0161okolaad tervete p\u00e4hklitega, 100 g",
         "subname": "MILKA, Saksamaa",
-        "price": "1,99"
+        "price": "2,19"
     },
     {
         "name": "Milka daimi t\u00fckkidega piima\u0161okolaad 100 g",
         "subname": "MILKA, \u0160veits",
-        "price": "1,95"
+        "price": "2,09"
     },
     {
         "name": "X-tra purustatud metsap\u00e4hklitega piima\u0161okolaad 100 g",
@@ -22337,7 +22387,7 @@
     {
         "name": "Milka Toffee tervete p\u00e4hklitega piima\u0161okolaad 300 g",
         "subname": "MILKA, \u0160veits",
-        "price": "4,59"
+        "price": "4,99"
     },
     {
         "name": "Oreo piima\u0161okolaad vaniljemaitselise kreemiga 100 g",
@@ -22347,17 +22397,12 @@
     {
         "name": "Milka Oreo piima\u0161okolaad 300 g",
         "subname": "MILKA, \u0160veits",
-        "price": "4,59"
+        "price": "4,99"
     },
     {
         "name": "Kalev Bitter 70% tume \u0161okolaad 100 g",
         "subname": "KALEV, Eesti",
         "price": "1,89"
-    },
-    {
-        "name": "Rainbow tume \u0161okolaad 80% 100 g",
-        "subname": "RAINBOW",
-        "price": "1,39"
     },
     {
         "name": "Milka Bubbly piima- ja valge \u0161okolaadisegu 95 g",
@@ -22420,6 +22465,11 @@
         "price": "2,49"
     },
     {
+        "name": "Kalev Laetud! piima\u0161okolaad maap\u00e4hklikreemi ja vaarikamarmela...",
+        "subname": "KALEV, Eesti",
+        "price": "2,19"
+    },
+    {
         "name": "Kalev \u0161okolaadimedal 15 g",
         "subname": "KALEV, Eesti",
         "price": "0,70"
@@ -22467,7 +22517,7 @@
     {
         "name": "\u00d6ko Ploomimehu 240 ml (4+)",
         "subname": "P\u00d5NN, Eesti",
-        "price": "1,65"
+        "price": "1,25"
     },
     {
         "name": "\u00d6ko Porgandimehu 240 ml (4+)",
@@ -22550,11 +22600,6 @@
         "price": "3,89"
     },
     {
-        "name": "Hipp mini Stars teraviljast ja puuviljast kr\u00f5bedad t\u00e4hed mahe...",
-        "subname": "HIPP",
-        "price": "1,59"
-    },
-    {
         "name": "Ella\u2019s Kitchen tomati-basiiliku maisipulgad mahe 16g",
         "subname": "ELLA'S",
         "price": "2,19"
@@ -22612,7 +22657,7 @@
     {
         "name": "Hipp puuviljas\u00f5ber jogurti-kirsi-banaanibatoon 23g, \u00f6ko, alat...",
         "subname": "HIPP, Saksamaa",
-        "price": "1,39"
+        "price": "1,09"
     },
     {
         "name": "Piltti puuviljabatoon 25 g, alates 1-eluaastast",
@@ -22637,7 +22682,7 @@
     {
         "name": "Ella\u00b4s tomati-porru maisipulgad 20 g, \u00f6ko, alates 6-elukuust",
         "subname": "ELLA'S, Suurbritannia",
-        "price": "1,19"
+        "price": "0,99"
     },
     {
         "name": "7-viljapuder k\u00fcpsistega, 250 g, alates 6-elukuust",
@@ -22698,6 +22743,11 @@
         "name": "FinnSnack Naperonaksu rukkivahepala mustikatega, 40 g",
         "subname": "FINNSNACK",
         "price": "1,49"
+    },
+    {
+        "name": "Ella's kitchen herne-suhkrumaisi maisipallid",
+        "subname": "ELLA'S, Suurbritannia",
+        "price": "3,69"
     },
     {
         "name": "\u00c4nglamark \u00f6koloogiline pudrupulber \u00f5una-pirni 6k+ 200g",
@@ -23017,12 +23067,12 @@
     {
         "name": "Huggies m\u00e4hkmed extra care 3 6-10kg 72tk",
         "subname": "HUGGIES, T\u0161ehhi",
-        "price": "19,99"
+        "price": "16,99"
     },
     {
         "name": "Huggies m\u00e4hkmed extra care 4 8-14kg 60tk",
         "subname": "HUGGIES, T\u0161ehhi",
-        "price": "19,99"
+        "price": "16,99"
     },
     {
         "name": "\u00c4nglamark junior m\u00e4hkmed 44/12-20kg",
@@ -23047,12 +23097,12 @@
     {
         "name": "Huggies m\u00e4hkmed Extra Care 1 2-5kg 84tk",
         "subname": "HUGGIES, T\u0161ehhi",
-        "price": "16,99"
+        "price": "14,39"
     },
     {
         "name": "Huggies m\u00e4hkmed Extra Care 2 3-6kg 82tk",
         "subname": "HUGGIES, T\u0161ehhi",
-        "price": "16,99"
+        "price": "14,39"
     },
     {
         "name": "Pampers baby dry 4 47/9-14kg vp",
@@ -23132,22 +23182,22 @@
     {
         "name": "Huggies p\u00fcksm\u00e4hkmed Pants 4 Box Girl 9-14kg, 72tk",
         "subname": "HUGGIES, T\u0161ehhi",
-        "price": "20,19"
+        "price": "16,99"
     },
     {
         "name": "Huggies p\u00fcksm\u00e4hkmed Pants 4 Box Boy 9-14kg, 72tk",
         "subname": "HUGGIES, T\u0161ehhi",
-        "price": "20,19"
+        "price": "16,99"
     },
     {
         "name": "Huggies p\u00fcksm\u00e4hkmed Pants 5 Box Girl 12-17kg, 68tk",
         "subname": "HUGGIES, T\u0161ehhi",
-        "price": "20,19"
+        "price": "16,99"
     },
     {
         "name": "Huggies p\u00fcksm\u00e4hkmed Pants 5 Box Boy 12-17kg, 68tk",
         "subname": "HUGGIES, T\u0161ehhi",
-        "price": "20,19"
+        "price": "16,99"
     },
     {
         "name": "Naty Nature p\u00fcksm\u00e4hkmed Babycare Junior 5,12-18 kg, 34 tk",
@@ -23192,17 +23242,17 @@
     {
         "name": "\u00c4nglamark junior p\u00fcksm\u00e4hkmed 38/12-20kg",
         "subname": "\u00c4NGLAMARK",
-        "price": "9,49"
+        "price": "8,99"
     },
     {
         "name": "\u00c4nglamark xl p\u00fcksm\u00e4hkmed 34/16+kg",
         "subname": "\u00c4NGLAMARK",
-        "price": "9,45"
+        "price": "8,99"
     },
     {
         "name": "\u00c4nglamark p\u00fcksm\u00e4hkmed maxi 42/8-15kg",
         "subname": "\u00c4NGLAMARK",
-        "price": "9,49"
+        "price": "8,99"
     },
     {
         "name": "Libero Touch 5 teipm\u00e4hkmed 10-14 kg 40 tk",
@@ -23217,12 +23267,12 @@
     {
         "name": "Libero Touch 6 p\u00fcksm\u00e4hkmed 13-20 kg 28 tk",
         "subname": "LIBERO",
-        "price": "15,55"
+        "price": "13,99"
     },
     {
         "name": "Libero Touch 5 p\u00fcksm\u00e4hkmed 10-14 kg 32 tk",
         "subname": "LIBERO",
-        "price": "15,55"
+        "price": "13,99"
     },
     {
         "name": "Libero UP&GO 7 p\u00fcksm\u00e4hkmed 16-26 kg 30 tk",
@@ -23372,17 +23422,17 @@
     {
         "name": "Pampers Night p\u00fcksm\u00e4hkmed VP S4 25tk",
         "subname": "PAMPERS",
-        "price": "11,89"
+        "price": "9,99"
     },
     {
         "name": "Pampers Night p\u00fcksm\u00e4hkmed VP S5 22tk",
         "subname": "PAMPERS",
-        "price": "11,89"
+        "price": "9,99"
     },
     {
         "name": "Pampers Night p\u00fcksm\u00e4hkmed VP S6 19tk",
         "subname": "PAMPERS",
-        "price": "11,89"
+        "price": "9,99"
     },
     {
         "name": "Libero Touch Hybrid korduvm\u00e4he sisupadjad 24 tk M suurus",
@@ -23407,7 +23457,7 @@
     {
         "name": "Huggies Little Swimmers ujumisp\u00fcksid 3-4, 7-15kg 12tk",
         "subname": "HUGGIES, Jaapan",
-        "price": "6,09"
+        "price": "4,89"
     },
     {
         "name": "Huggies p\u00fcksm\u00e4hkmed Dry Nites Boy 27-57 kg, 9 tk",
@@ -23427,7 +23477,7 @@
     {
         "name": "Huggies little sw 12-18kg",
         "subname": "HUGGIES, Jaapan",
-        "price": "6,09"
+        "price": "4,89"
     },
     {
         "name": "Huggies p\u00fcksm\u00e4hkmed Dry Nites Boy 17-30 kg, 10 tk",
@@ -23657,7 +23707,7 @@
     {
         "name": "Huggies Pure niisked salvr\u00e4tikud 56 tk",
         "subname": "HUGGIES, Suurbritannia",
-        "price": "2,49"
+        "price": "1,89"
     },
     {
         "name": "Huggies Natural Care niisked salvr\u00e4tikud 56 tk",
@@ -23697,7 +23747,7 @@
     {
         "name": "Pampers Sensitive niisked salvr\u00e4tikud 320 tk",
         "subname": "PAMPERS",
-        "price": "10,19"
+        "price": "7,99"
     },
     {
         "name": "Libero niisked salvr\u00e4tikud 384 tk",
@@ -23722,7 +23772,7 @@
     {
         "name": "Urtekram Baby tsinkkreem 75 ml, \u00f6ko",
         "subname": "URTEKRAM",
-        "price": "2,75"
+        "price": "2,29"
     },
     {
         "name": "Johnson\u00b4s vannivaht du\u0161igeel Cottontouch 2in1 beebidele, pumb...",
@@ -23737,7 +23787,7 @@
     {
         "name": "Johnson\u00b4s pesemisvahend Top-to-Toe pumbaga 500 ml",
         "subname": "JOHNSON'S, Euroopa liit",
-        "price": "5,05"
+        "price": "4,29"
     },
     {
         "name": "Kehakreem Cottontouch kehakreem, 300 ml",
@@ -23807,7 +23857,7 @@
     {
         "name": "Weleda saialillest tuule- ja k\u00fclmakaitsekreem, 30 ml",
         "subname": "WELEDA, Saksamaa",
-        "price": "7,49"
+        "price": "6,29"
     },
     {
         "name": "Weleda saialille beebikreem tsingiga, 75 ml",
@@ -23892,7 +23942,7 @@
     {
         "name": "Aptamil\u00ae NUTRIBIOTIK\u2122 2 piimal p\u00f5hinev imiku j\u00e4tkupiimasegu a...",
         "subname": "APTAMIL, Poola",
-        "price": "24,19"
+        "price": "19,99"
     },
     {
         "name": "Aptamil\u00ae NUTRIBIOTIK\u2122 1 piimal p\u00f5hinev imiku piimasegu alates...",
@@ -23927,7 +23977,7 @@
     {
         "name": "Aptamil\u00ae NUTRIBIOTIK\u2122 3 piimajook alates 12 kuust, 1,2kg",
         "subname": "APTAMIL, Poola",
-        "price": "24,19"
+        "price": "19,99"
     },
     {
         "name": "Nuppi Gold 1, piimasegu, 350 g, alates 0-6 kuud",
@@ -23947,7 +23997,7 @@
     {
         "name": "J\u00e4tkupiimasegu 6-12 kuud 400 g",
         "subname": "FRISO, Holland",
-        "price": "8,39"
+        "price": "6,69"
     },
     {
         "name": "Seedeprobleemidega imiku piimasegu 0-6 kuud 400 g",
@@ -23987,7 +24037,7 @@
     {
         "name": "Friso Gold 3 j\u00e4tkupiimasegu 400g, alates 12-elukuust",
         "subname": "FRISO, Holland",
-        "price": "7,85"
+        "price": "6,19"
     },
     {
         "name": "Friso Gold Comfort Next 3 piimasegu 400g, alates 12-elukuust",
@@ -24122,7 +24172,7 @@
     {
         "name": "Rhinomer nina aspiraatori otsikud 10 tk",
         "subname": "RHINOMER, Prantsusmaa",
-        "price": "9,15"
+        "price": "6,99"
     },
     {
         "name": "Jahutav n\u00e4rimisr\u00f5ngas",
@@ -24452,7 +24502,7 @@
     {
         "name": "Gourmet Gold kalkunipasteet 85g",
         "subname": "GOURMET, Prantsusmaa",
-        "price": "0,99"
+        "price": "0,69"
     },
     {
         "name": "T\u00e4iss\u00f6\u00f6t kassidele kanalihaga 85 g",
@@ -24515,24 +24565,9 @@
         "price": "0,40"
     },
     {
-        "name": "SHEBA T\u00e4iss\u00f6\u00f6t kassidele Fresh&Fine kala kastmes 6x50g",
-        "subname": "SHEBA",
-        "price": "4,06"
-    },
-    {
-        "name": "GEPARDI pasteet kassipoegadele kanaliha ja putukatega 70g",
-        "subname": "DAGSMARK",
-        "price": "1,01"
-    },
-    {
-        "name": "PUUMA kassitoit kanaliha ja putukatega tarretises 80g",
-        "subname": "DAGSMARK",
-        "price": "1,01"
-    },
-    {
-        "name": "LEOPARDI kassitoit kana ja veiselihaga kastmes 8x80g",
-        "subname": "DAGSMARK",
-        "price": "6,70"
+        "name": "FARM pet food Kanapuljong t\u00e4iskasvanud kassidele 250 ml",
+        "subname": "Eesti",
+        "price": "2,99"
     },
     {
         "name": "TIIKERI kassitoit kana ja kalkunilihaga kastmes 8x80g",
@@ -24548,6 +24583,11 @@
         "name": "Mjau Senior kassitoiduvalik vanematele kassidele kastmes 12x85g",
         "subname": "MJAU",
         "price": "6,09"
+    },
+    {
+        "name": "FARM pet food L\u00f5he/krevetikonserv kassidele 50% l\u00f5he/krevetid...",
+        "subname": "Eesti",
+        "price": "2,59"
     },
     {
         "name": "Kuivtoit kassidele l\u00f5hega 1 kg",
@@ -24688,6 +24728,16 @@
         "name": "T\u00e4iss\u00f6\u00f6t kassidele h\u00e4rjaliha kastmes 85 g",
         "subname": "SHEBA, Leedu",
         "price": "1,21"
+    },
+    {
+        "name": "T\u00e4iss\u00f6\u00f6t kassidele vasika- ja kalkuniliha kastmes 85 g",
+        "subname": "SHEBA",
+        "price": "1,27"
+    },
+    {
+        "name": "T\u00e4iss\u00f6\u00f6t kassidele, kalkunilihapada 85 g",
+        "subname": "SHEBA",
+        "price": "1,31"
     },
     {
         "name": "Teravilja-rasvapallid lindude toitmiseks 2 x 120 g",
@@ -24957,7 +25007,7 @@
     {
         "name": "Puidup\u00f5hine kassiliiv 6 l",
         "subname": "RAINBOW",
-        "price": "3,49"
+        "price": "2,95"
     },
     {
         "name": "Paakuv kassiliiv 10 l",
@@ -25457,7 +25507,7 @@
     {
         "name": "Eco Papptaldrik 18cm 40tk Valge",
         "subname": "RAINBOW",
-        "price": "1,82"
+        "price": "1,99"
     },
     {
         "name": "Rainbow eco papptaldrik 20cm 25tk",
@@ -25587,7 +25637,7 @@
     {
         "name": "Eco Kohvipapptops Sangaga 175Ml 50 tk",
         "subname": "RAINBOW",
-        "price": "2,84"
+        "price": "2,49"
     },
     {
         "name": "Eco Joogitops 250Ml 10 tk",
@@ -25727,7 +25777,7 @@
     {
         "name": "Elise\u00ae kasepuidust katmata kahvlid, biolagunevad ja kompostee...",
         "subname": "ELISE, Hiina",
-        "price": "0,97"
+        "price": "0,75"
     },
     {
         "name": "Elise\u00ae kasepuidust katmata noad, biolagunevad ja komposteeriv...",
@@ -26052,7 +26102,7 @@
     {
         "name": "Foolium 15 m x 29 cm",
         "subname": "RAINBOW",
-        "price": "2,19"
+        "price": "1,49"
     },
     {
         "name": "Foolium 20 m x 29 cm",
@@ -27382,7 +27432,7 @@
     {
         "name": "McLean pr\u00fcgikott n\u00f6\u00f6riga 35 l 15 tk, must",
         "subname": "MCLEAN, Eesti",
-        "price": "2,15"
+        "price": "1,85"
     },
     {
         "name": "McLean pr\u00fcgikott n\u00f6\u00f6riga 35 l 15 tk, sinine",
@@ -27827,7 +27877,7 @@
     {
         "name": "Hambapasta 50ml 0-5a piimahammaste 50ml",
         "subname": "JORDAN, Norra",
-        "price": "2,15"
+        "price": "1,95"
     },
     {
         "name": "Hambapasta Extra Black valgendav 100ml",
@@ -27877,7 +27927,7 @@
     {
         "name": "Seep Naturals Green Tea Cucumber 90 g",
         "subname": "PALMOLIVE, T\u00fcrgi",
-        "price": "0,75"
+        "price": "0,69"
     },
     {
         "name": "T\u00fckiseep naturals milk & rose petals 90g",
@@ -28137,32 +28187,32 @@
     {
         "name": "Live kergv\u00e4rv p120 lilla unistus",
         "subname": "LIVE, Saksamaa",
-        "price": "9,79"
+        "price": "7,49"
     },
     {
         "name": "Live kergv\u00e4rv p123 roosa kuld",
         "subname": "LIVE, Saksamaa",
-        "price": "9,79"
+        "price": "7,49"
     },
     {
         "name": "Live p\u00fcsiv\u00e4rv 035 leekiv punane",
         "subname": "LIVE, Saksamaa",
-        "price": "9,79"
+        "price": "7,49"
     },
     {
         "name": "Live p\u00fcsiv\u00e4rv 090 sinine kosmos",
         "subname": "LIVE, Saksamaa",
-        "price": "9,79"
+        "price": "7,49"
     },
     {
         "name": "Live p\u00fcsiv\u00e4rv b10 jahe blond",
         "subname": "LIVE, Saksamaa",
-        "price": "9,79"
+        "price": "7,49"
     },
     {
         "name": "Live p\u00fcsiv\u00e4rv b11 j\u00e4ine blond",
         "subname": "LIVE, Saksamaa",
-        "price": "9,79"
+        "price": "7,49"
     },
     {
         "name": "TAIMNE JUUKSEV\u00c4RV BROWN",
@@ -28352,7 +28402,7 @@
     {
         "name": "Vatipadjad Cleanic 120 tk",
         "subname": "CLEANIC, Poola",
-        "price": "1,79"
+        "price": "1,49"
     },
     {
         "name": "Bic  pure3 \u00fchekordsed raseerijad naistele 3 tera 4tk",
@@ -28382,7 +28432,7 @@
     {
         "name": "P\u00e4evakreem kurk 75 ml",
         "subname": "PUHAS LOODUS, Eesti",
-        "price": "2,99"
+        "price": "2,09"
     },
     {
         "name": "K\u00e4tekreem advanced repair 75ml",
@@ -28562,7 +28612,7 @@
     {
         "name": "N\u00e4ovesi kurgi 200ml",
         "subname": "PUHAS LOODUS, Eesti",
-        "price": "4,19"
+        "price": "2,99"
     },
     {
         "name": "N\u00e4opuhastuspiim saialill 200ml",
@@ -28662,7 +28712,7 @@
     {
         "name": "Pulkdeodorant Old Spice Whitewater 50ml",
         "subname": "OLD SPICE, Saksamaa",
-        "price": "4,89"
+        "price": "3,45"
     },
     {
         "name": "Spreideodorant Invisible Black & White 150 ml",
@@ -29087,7 +29137,7 @@
     {
         "name": "Mayeri Sensitive loputusvahendi kontsentraat 750 ml",
         "subname": "MAYERI, Eesti",
-        "price": "2,79"
+        "price": "1,79"
     },
     {
         "name": "Rainbow Sensitive pesugeel 1 l, 20 pesukorda",
@@ -29202,7 +29252,7 @@
     {
         "name": "Ace Regular pesuvalgendaja 1 l",
         "subname": "ACE, Venemaa",
-        "price": "1,89"
+        "price": "1,39"
     },
     {
         "name": "Ace Lemon pesuvalgendaja 1 l",
@@ -29237,12 +29287,12 @@
     {
         "name": "Mayeri Liilia Universal pesupulber 3 kg",
         "subname": "MAYERI, Eesti",
-        "price": "6,29"
+        "price": "4,99"
     },
     {
         "name": "Mayeri Liilia Color pesupulber 3 kg",
         "subname": "MAYERI, Eesti",
-        "price": "6,29"
+        "price": "4,99"
     },
     {
         "name": "X-tra Color pesugeel 2 l, 44 pesukorda",
@@ -29292,7 +29342,7 @@
     {
         "name": "Mayeri torusiil 1 l",
         "subname": "MAYERI, Eesti",
-        "price": "2,35"
+        "price": "1,99"
     },
     {
         "name": "N\u00f5udepesuvahend aloe vera 500ml",
@@ -29347,7 +29397,7 @@
     {
         "name": "Mayeri Sensitive \u00fcldpuhastusvahend 500 ml",
         "subname": "MAYERI, Eesti",
-        "price": "2,39"
+        "price": "1,75"
     },
     {
         "name": "Mayeri Sensitive Spray klaasi puhastusvahend 500 ml",
@@ -29357,7 +29407,7 @@
     {
         "name": "Frosch n\u00f5udepesuvahend Aloe Vera 500 ml",
         "subname": "FROSCH, Saksamaa",
-        "price": "2,15"
+        "price": "1,49"
     },
     {
         "name": "Kolorado Blue Ocean WC-loputuskasti v\u00e4rskendaja 2 x 45 g",
@@ -29392,7 +29442,7 @@
     {
         "name": "Tri-bio n\u00f5udepesumasina tabletid 25 tk, \u00f6ko",
         "subname": "TRI-BIO, Usa",
-        "price": "8,65"
+        "price": "5,99"
     },
     {
         "name": "N\u00f5udepesumasina tabletid allin1 40tk",
@@ -29532,7 +29582,7 @@
     {
         "name": "ZEWA tualETTPABER Deluxe 16 rulli (Delicate Care, 3-kihti)",
         "subname": "ZEWA, Soome",
-        "price": "10,16"
+        "price": "6,55"
     },
     {
         "name": "Zewa Salvr\u00e4tikud karbis Deluxe Design 90tk (3-kihiline)",
@@ -29607,7 +29657,7 @@
     {
         "name": "Zewa Majapidamispaber Klassik Jumbo 1 rull (2-kihiline, valge...",
         "subname": "ZEWA, Soome",
-        "price": "5,18"
+        "price": "3,99"
     },
     {
         "name": "Grite tualettpaber 3-kihiline 8rulli",
@@ -29667,7 +29717,7 @@
     {
         "name": "Majapidamispaber Mega Roll 1tk 3kihiline Ruta 175 lehte",
         "subname": "RUTA, Ukraina",
-        "price": "3,14"
+        "price": "2,49"
     },
     {
         "name": "Kleenex Collection salvr\u00e4tid kuubis 48tk",
@@ -31197,7 +31247,7 @@
     {
         "name": "Raffini juuksekumm must 10 tk",
         "subname": "RAFFINI",
-        "price": "1,90"
+        "price": "0,99"
     },
     {
         "name": "Raffini juuksekumm pruun 10 tk",
@@ -31292,7 +31342,7 @@
     {
         "name": "Raffini k\u00fc\u00fcneviil 2 tk",
         "subname": "RAFFINI",
-        "price": "1,50"
+        "price": "1,49"
     },
     {
         "name": "Cailap k\u00fc\u00fcnek\u00e4\u00e4rid 20170829",
