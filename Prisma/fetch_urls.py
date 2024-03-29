@@ -6,7 +6,7 @@ async def get_urls_list(current_page: str, session: aiohttp.ClientSession, progr
         async with session.get(current_page) as response:
             
             if response.status != 200:
-                raise Exception(f'Error {response.status} while fetchin {current_page}.')
+                raise aiohttp.ClientResponseError
 
             html = await response.text()
 
@@ -24,7 +24,7 @@ async def get_urls_list(current_page: str, session: aiohttp.ClientSession, progr
 
             return links_list
         
-    except Exception as e:
+    except aiohttp.ClientResponseError as e:
         print(f"Error fetching {current_page}: {e}")
         return None
 
@@ -44,18 +44,19 @@ async def main(main_page: str, progress: Spinner):
         
         return results
 
-# Prisma website product selection
-prisma_selection = 'https://www.prismamarket.ee/products/selection'
+def fetch_urls():
+    # Prisma website product selection
+    prisma_selection = 'https://www.prismamarket.ee/products/selection'
 
-progress = Spinner('Fetching urls ')
+    progress = Spinner('Fetching urls ')
 
-subcategories_urls = asyncio.run(main(prisma_selection, progress))
+    subcategories_urls = asyncio.run(main(prisma_selection, progress))
 
-progress.finish()
+    progress.finish()
 
-# Flat out data, taking each url from the list of lists and
-# Putting into one list
-urls = [url for subcategory in subcategories_urls for url in subcategory]
+    # Flat out data, taking each url from the list of lists and
+    # Putting into one list
+    urls = [url for subcategory in subcategories_urls for url in subcategory]
 
-with open('data/urls.json', 'w') as urls_file:
-    json.dump(urls, urls_file, indent=4)
+    with open('data/urls.json', 'w') as urls_file:
+        json.dump(urls, urls_file, indent=4)

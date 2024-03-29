@@ -7,6 +7,11 @@ from progress.spinner import Spinner
 import asyncio
 import aiohttp
 
+def get_products_total(soup: BeautifulSoup):
+    amount_of_products = soup.find_all('b')
+    amount_of_products = int(amount_of_products[1].text)
+    return amount_of_products
+
 def get_list_from_html(tag: str, attribute: str, html_data: BeautifulSoup) -> list:
     result = html_data.find_all(tag, class_ = attribute)
     return [item.text for item in result]
@@ -36,6 +41,6 @@ def get_urls_and_len(file_path):
     return urls, len(urls)
     
 def save_json(file_path, all_products):
-    with open(file_path, 'w') as prisma_products:
-        json.dump(all_products, prisma_products, indent=4)
+    with open(file_path, 'w') as products:
+        json.dump(all_products, products, indent=4)
 
