@@ -1,29 +1,40 @@
 from web_scraper_helper import *
 from fetch_urls import fetch_urls
 
-async def get_products_from_html(html):
+async def collect_products(html: BeautifulSoup, products_left: int, url: str, session: aiohttp.ClientSession):
+
+    # Save a list of dictionaries
+    products = get_products_list('div', 'info relative clear', html)
+    
+    products_per_page = len(products)
+
+    # If more products left, open next page, scrape products until all are done, append to the end of the list
+    if products_left > products_per_page:
+        products_left -= products_per_page
+        url = next_page(url)
+        async with session.get(url) as response:
+
+            if response.status != 200:
+                print(f'Error at {url} status: {response.status}.')
+                raise aiohttp.ClientResponseError
+
+            html = await response.text()
+            html = BeautifulSoup(html, 'html.parser')
+            add_products = await collect_products(html, products_left, url, session)
+            products.extend(add_products)
+
+    return products
+
+async def get_products_from_html(html, url: str, session: aiohttp.ClientSession):
     products_html = BeautifulSoup(html, 'html.parser')
 
-    names_list = get_list_from_html('div', 'name', products_html)
+    all_products_count = get_products_total(products_html)
 
-    # Gets rid of root 'Tootevalik', category and subcategory
-    names_list = names_list[3:]
+    # Collect products and open new url pages if not all products collected
+    products = await collect_products(products_html, all_products_count, url, session)
 
-    print(f'All products on link {get_products_total(products_html)}')
-    print(f'Products per page {len(names_list)}') 
-
-    subnames_list = get_list_from_html('span', 'subname', products_html)
-
-    prices_list = get_list_from_html('div', 'js-info-price', products_html)
-
-    # Remove newline character and 'tk' and add comma between numbers
-    for i, price in enumerate(prices_list):
-        prices_list[i] = price[:-4].replace('\n', ',')
+    return products
     
-    # Save a list of dictionaries
-    subcategory_products = [{"name": name, "subname": subname, "price": price} for name, subname, price in zip(names_list, subnames_list, prices_list)]
-    
-    return subcategory_products
 
 async def get_page_products(current_page: str, session: aiohttp.ClientSession, progress: Bar):
     
@@ -33,20 +44,15 @@ async def get_page_products(current_page: str, session: aiohttp.ClientSession, p
             if response.status != 200:
                 print(f'Error at {current_page} status: {response.status}.')
                 raise aiohttp.ClientResponseError
-            else:
-                print(f'Successfull connection to {current_page}.')
 
             html = await response.text()
+            products = await get_products_from_html(html, current_page, session)
 
     except aiohttp.ClientResponseError as e:
         print(f'Error in connection: {str(e)}')
         return None
-
-    else:
-        products = await get_products_from_html(html)
-
-    finally: 
-        progress.next()
+        
+    progress.next()
 
     return products
 
