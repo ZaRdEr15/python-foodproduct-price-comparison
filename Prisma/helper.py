@@ -1,12 +1,13 @@
 from bs4 import BeautifulSoup
-import os.path
-import datetime
 import json
 from progress.bar import Bar
 from progress.spinner import Spinner
 import asyncio
 import aiohttp
 
+# Switch to the next possible page in the subcategory
+# If on the first page, add /page/2, otherwise increase page
+# Returns next page url
 def next_page(url: str) -> str:
     page_prefix = '/page/'
     prefix_offset = 6
@@ -35,20 +36,6 @@ def construct_product(result_data):
     price = result_data.find('div', class_ = 'js-info-price').text
     price = price[:-4].replace('\n', ',') # Remove newline character and 'tk' and add comma between numbers
     return {"name": name, "subname": subname, "price": price}
-
-# Compares current date with file creation date
-# If both match, return true, otherwise false
-def cmp_dates(file_name: str) -> bool:
-    file_creation_time = os.path.getctime(file_name)
-    file_creation_time = datetime.datetime.fromtimestamp(file_creation_time)
-    file_creation_date = file_creation_time.date()
-
-    current_date = datetime.date.today()
-    
-    if current_date == file_creation_date:
-         return True
-    
-    return False
 
 # Load data from JSON file as dictionary
 def load_json(file_path) -> list:

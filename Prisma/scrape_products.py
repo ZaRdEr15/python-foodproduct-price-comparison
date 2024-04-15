@@ -1,4 +1,5 @@
 import Prisma.helper as wb
+import common
 from fetch_urls import fetch_urls
 
 async def collect_products(html: wb.BeautifulSoup, products_left: int, url: str, session: wb.aiohttp.ClientSession):
@@ -73,13 +74,13 @@ if __name__ == '__main__':
     urls_file = 'data/urls.json'
 
     # Check if the file with products already exists
-    if wb.os.path.exists(products_file) and wb.cmp_dates(products_file):
+    if common.os.path.exists(products_file) and common.cmp_dates(products_file):
             print('File exists and dates are the same.')
             exit()
     # Only create a file if it doesnt exist and the date is different
     else:
         # If urls file doesnt exist, fetch urls
-        if not wb.os.path.exists(urls_file):
+        if not common.os.path.exists(urls_file):
             fetch_urls()
         urls, all_urls_count = wb.get_urls_and_len(urls_file)
 
