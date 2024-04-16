@@ -32,21 +32,16 @@ def get_products_list(tag: str, attribute: str, html_data: BeautifulSoup) -> lis
 def construct_product(result_data):
     name = result_data.find('div', class_ = 'name').text
     subname = result_data.find('span', class_ = 'subname')
-    subname = None if subname is None else subname.text # Not every product contains 'subname'
+    # Combine name with subname
+    if subname is not None: # Not every product contains 'subname'
+        name = name + ' ' + subname.text
     price = result_data.find('div', class_ = 'js-info-price').text
     price = price[:-4].replace('\n', ',') # Remove newline character and 'tk' and add comma between numbers
-    return {"name": name, "subname": subname, "price": price}
+    return {"name": name, "price": price}
 
-# Load data from JSON file as dictionary
-def load_json(file_path) -> list:
-    with open(file_path, 'r') as file:
-        return json.load(file)
-    
-# Get urls from JSON file
-def get_urls_and_len(file_path):
-    urls = load_json(file_path)
-    return urls, len(urls)
-    
-def save_json(file_path, all_products):
-    with open(file_path, 'w') as products:
-        json.dump(all_products, products, indent=4)
+# Removes duplicate dictionaries inside the list if both name and price match
+# BUT it needs more testing to make sure
+# The returned list will be unorganized making testing harder
+def remove_duplicates(data: list):
+    unique_data = {tuple(d.values()) for d in data}
+    return [{"name": item[0], "price": item[1]} for item in unique_data]

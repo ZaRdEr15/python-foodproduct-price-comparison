@@ -12,9 +12,9 @@ Upon first notice, this script scraping does take quite some time indeed, but in
 
 ### Made with
 
-[aiohttp](https://pypi.org/project/aiohttp/) is used to asynchronously get html contents of the shop pages.
-[BeautifulSoup](https://pypi.org/project/beautifulsoup4/) is used to scrape data from the html content.
-[Progress](https://pypi.org/project/progress/) is used to indicate the current progress of scraping 
+- [aiohttp](https://pypi.org/project/aiohttp/) is used to asynchronously get html contents of the shop pages.
+- [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) is used to scrape data from the html content.
+- [Progress](https://pypi.org/project/progress/) is used to indicate the current progress of scraping 
 
 ### Installation
 

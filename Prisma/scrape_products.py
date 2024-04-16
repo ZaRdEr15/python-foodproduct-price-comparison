@@ -1,4 +1,6 @@
-import Prisma.helper as wb
+import helper as wb
+import sys, os
+sys.path.append(os.path.abspath(os.pardir)) # Move up one directory to access common.py
 import common
 from fetch_urls import fetch_urls
 
@@ -8,6 +10,8 @@ async def collect_products(html: wb.BeautifulSoup, products_left: int, url: str,
     products = wb.get_products_list('div', 'info relative clear', html)
     
     products_per_page = len(products)
+
+    #print(f'{url}: current: {products_per_page}, left: {products_left}') # Debug
 
     # If more products left, open next page, scrape products until all are done, append to the end of the list
     if products_left > products_per_page:
@@ -79,12 +83,13 @@ if __name__ == '__main__':
             exit()
     # Only create a file if it doesnt exist and the date is different
     else:
+        scrape_start = common.time.time()
         # If urls file doesnt exist, fetch urls
         if not common.os.path.exists(urls_file):
             fetch_urls()
-        urls, all_urls_count = wb.get_urls_and_len(urls_file)
+        urls = common.load_json(urls_file)
 
-        progress = wb.Bar('Collecting products', max=all_urls_count, suffix='%(percent)d%%')
+        progress = wb.Bar('Collecting products', max=len(urls), suffix='%(percent)d%%')
 
         data = wb.asyncio.run(main(urls, progress))
 
@@ -92,7 +97,12 @@ if __name__ == '__main__':
         # Putting into one list
         data = [product for sublist in data for product in sublist]
 
-        progress.finish()
-        print('Finished scraping products from Prisma')
+        # Remove any duplicate elements
+        data = wb.remove_duplicates(data)
 
-        wb.save_json(products_file, data)
+        progress.finish()
+        scrape_end = common.time.time()
+        scrape_time = scrape_end - scrape_start
+        print(f'Finished scraping products from Prisma. Took {scrape_time:.2f} s.')
+
+        common.save_json(products_file, data)

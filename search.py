@@ -17,11 +17,10 @@ while(True):
     # Search Prisma JSON data file for search phrase matches
     for object in json_data:
         name    =   object['name']
-        subname =   object['subname'] if object['subname'] != None else ''
         price   =   object['price']
-        if search_phrase in name.lower() or search_phrase in subname.lower():
+        if search_phrase in name.lower():
             found += 1
-            print(f'{name:<80}| {subname:<25}: {price:>6}€ -> {shops[0]}')
+            print(f'{name:<120}| {price:>6}€ -> {shops[0]}')
 
     # When searching is finished, show amount of results
     print()
