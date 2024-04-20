@@ -4,7 +4,10 @@ sys.path.append(os.path.abspath(os.pardir)) # Move up one directory to access co
 import common
 from fetch_urls import fetch_urls
 
-async def collect_products(html: wb.BeautifulSoup, products_left: int, url: str, session: wb.aiohttp.ClientSession):
+# Collect all products from a single page
+# If the amount of products collected is less than total,
+# then open next page and repeat the process
+async def collect_products(html: wb.BeautifulSoup, products_left: int, url: str, session: wb.aiohttp.ClientSession) -> list:
 
     # Save a list of dictionaries
     products = wb.get_products_list('div', 'info relative clear', html)
@@ -30,7 +33,10 @@ async def collect_products(html: wb.BeautifulSoup, products_left: int, url: str,
 
     return products
 
-async def get_products_from_html(html, url: str, session: wb.aiohttp.ClientSession):
+# Collect all products from a single page
+# Get the total amount of all products on a single subcategory
+# Returns all combined 
+async def get_products_from_html(html, url: str, session: wb.aiohttp.ClientSession) -> list:
     products_html = wb.BeautifulSoup(html, 'html.parser')
 
     all_products_count = wb.get_products_total(products_html)
@@ -40,7 +46,7 @@ async def get_products_from_html(html, url: str, session: wb.aiohttp.ClientSessi
 
     return products
     
-
+# Get all products from a single subcategory
 async def get_page_products(current_page: str, session: wb.aiohttp.ClientSession, progress: wb.Bar):
     
     try:
@@ -61,6 +67,7 @@ async def get_page_products(current_page: str, session: wb.aiohttp.ClientSession
 
     return products
 
+# Run the async functions to collect products
 async def main(urls: list, progress):
     async with wb.aiohttp.ClientSession() as session:
         
