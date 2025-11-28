@@ -3,7 +3,6 @@ import sys, os
 
 sys.path.append(os.path.abspath(os.pardir)) # Move up one directory to access common.py
 import common
-from fetch_urls import fetch_urls
 
 # Collect all products from a single page
 # If the amount of products collected is less than total,
@@ -16,21 +15,6 @@ async def collect_products(html: wb.BeautifulSoup, products_left: int, url: str,
     products_per_page = len(products)
 
     #print(f'{url}: current: {products_per_page}, left: {products_left}') # Debug
-
-    # If more products left, open next page, scrape products until all are done, append to the end of the list
-    if products_left > products_per_page:
-        products_left -= products_per_page
-        url = wb.next_page(url)
-        async with session.get(url) as response:
-
-            if response.status != 200:
-                print(f'Error at {url} status: {response.status}.')
-                raise wb.aiohttp.ClientResponseError
-
-            html = await response.text()
-            html = wb.BeautifulSoup(html, 'html.parser')
-            add_products = await collect_products(html, products_left, url, session)
-            products.extend(add_products)
 
     return products
 
@@ -83,7 +67,6 @@ async def main(urls: list, progress):
 if __name__ == '__main__':
     
     products_file = 'data/products.json'
-    urls_file = 'data/urls.json'
 
     # Check if the file with products already exists
     if common.os.path.exists(products_file) and common.cmp_dates(products_file):
@@ -92,25 +75,24 @@ if __name__ == '__main__':
     # Only create a file if it doesnt exist and the date is different
     else:
         scrape_start = common.time.time()
-        # If urls file doesnt exist, fetch urls
-        if not common.os.path.exists(urls_file):
-            fetch_urls()
-        urls = common.load_json(urls_file)
+        
+        url_prefix = 'https://www.rimi.ee/epood/ee/otsing?currentPage='
+        url_postfix = '&pageSize=80&query='
+        last_page = wb.get_last_page()
+        urls = [url_prefix + str(page) + url_postfix for page in range(1, last_page) ]
 
         progress = wb.Bar('Collecting products', max=len(urls), suffix='%(percent)d%%')
 
         data = wb.asyncio.run(main(urls, progress))
 
-        # Flat out data, taking each product from the list of lists and
+        """ # Flat out data, taking each product from the list of lists and
         # Putting into one list
-        data = [product for sublist in data for product in sublist]
+        data = [product for sublist in data for product in sublist] """
 
-        # Remove any duplicate elements
-        data = wb.remove_duplicates(data)
 
         progress.finish()
         scrape_end = common.time.time()
         scrape_time = scrape_end - scrape_start
-        print(f'Finished scraping products from Prisma. Took {scrape_time:.2f} s.')
+        print(f'Finished scraping products from Rimi. Took {scrape_time:.2f} s.')
 
         common.save_json(products_file, data)

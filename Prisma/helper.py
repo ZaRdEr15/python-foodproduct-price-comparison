@@ -27,7 +27,7 @@ def get_products_total(soup: BeautifulSoup) -> int:
 
 # Get a list of all products from the single page
 def get_products_list(tag: str, attribute: str, html_data: BeautifulSoup) -> list:
-    result = html_data.find_all(tag, class_ = attribute)
+    result = html_data.find_all(tag, class_=attribute)
     products = [construct_product(product) for product in result]
     return products
 

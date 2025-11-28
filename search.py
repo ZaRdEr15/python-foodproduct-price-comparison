@@ -20,7 +20,7 @@ while(True):
         price   =   object['price']
         if search_phrase in name.lower():
             found += 1
-            print(f'{name:<120}| {price:>6}€ -> {shops[0]}')
+            print(f'{name:<120}| {price:>6} € -> {shops[0]}')
 
     # When searching is finished, show amount of results
     print()

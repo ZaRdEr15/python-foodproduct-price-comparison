@@ -64,7 +64,6 @@ Currently, data is scraped from:
 - [ ] Rimi
 - [ ] Selver
 - [ ] Maxima (Barbora)
-- [ ] Coop
 
 ### License
 
